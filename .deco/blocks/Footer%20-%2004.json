@@ -1,0 +1,378 @@
+{
+  "hide": {
+    "info": false,
+    "logo": false,
+    "notice": false,
+    "newsletter": false,
+    "socialLinks": false,
+    "sectionLinks": false,
+    "switcherStore": false,
+    "paymentMethods": false
+  },
+  "info": [
+    {
+      "id": "Copyright & Informações",
+      "items": [
+        {
+          "label": "© Copyright Granado 2025 -  Todos os direitos reservados "
+        },
+        {
+          "label": "Jesmond Comercio Varejista LTDA | CNPJ:  08.743.025/0010-88 | Estrada São Domingos, SN lote 14-A Parte – Boa  Esperança – Seropédica - RJ | CEP: 23894-080"
+        },
+        {
+          "label": "Horário de funcionamento: De segunda a sexta-feira, das 08:00 às 17:30h | Telefone: 0800 940 6730 - 4000-1257"
+        }
+      ],
+      "label": "Copyright & Informações"
+    },
+    {
+      "items": [
+        {
+          "label": "Farmacêutico Responsável Técnico: Estael da Silva Pereira – CRF-RJ: 10416"
+        },
+        {
+          "label": "CMVS 046/2024 | 733 - AFE: 7.90899-1"
+        }
+      ],
+      "label": "Farmacêutico"
+    }
+  ],
+  "logo": {
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/0be71525-77aa-44e4-8a74-cc6f5bd50c28"
+  },
+  "layout": {
+    "hide": {
+      "logo": false,
+      "extraLinks": false,
+      "mobileApps": false,
+      "newsletter": false,
+      "socialLinks": false,
+      "backToTheTop": false,
+      "sectionLinks": false,
+      "regionOptions": false
+    },
+    "variation": "Variation 4",
+    "backgroundColor": "Primary"
+  },
+  "notice": [
+    {
+      "items": [
+        {
+          "label": "As  informações contidas neste site não devem ser usadas para automedicação  e não substituem, em hipótese alguma, as orientações dadas pelo  profissional da área médica. ",
+          "htmlFormat": false
+        },
+        {
+          "label": "Somente o médico está apto a diagnosticar qualquer problema de saúde e prescrever o tratamento adequado. SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO."
+        }
+      ],
+      "label": "Orientações"
+    },
+    {
+      "items": [
+        {
+          "label": "Os preços e  promoções divulgados no site são válidos apenas para compras feitas pela  internet. "
+        }
+      ],
+      "label": "Preços & Promoções"
+    },
+    {
+      "items": [
+        {
+          "label": "Maiores esclarecimentos, consultar o site: <a href=\"https://www.gov.br/anvisa/pt-br\" class=\"underline\" aria-label=\"Link site Anvisa\">www.anvisa.gov.br</a>",
+          "htmlFormat": true
+        }
+      ],
+      "label": "Anvisa"
+    }
+  ],
+  "social": {
+    "items": [
+      {
+        "link": "https://www.facebook.com/GranadoPharmacias1870/",
+        "label": "Facebook"
+      },
+      {
+        "link": "https://www.instagram.com/granadopharmacias/",
+        "label": "Instagram"
+      },
+      {
+        "link": "https://www.linkedin.com/company/granado-phebo/",
+        "label": "LinkedIn"
+      },
+      {
+        "link": "https://www.tiktok.com/@granadopharmacias",
+        "label": "TikTok"
+      },
+      {
+        "link": "https://twitter.com/granado_oficial",
+        "label": "X"
+      },
+      {
+        "link": "https://www.youtube.com/channel/UCqL7AM6v1r1xS5u5XtoyMgw",
+        "label": "YouTube"
+      }
+    ],
+    "title": "Redes sociais"
+  },
+  "payments": {
+    "items": [
+      {
+        "label": "Amex"
+      },
+      {
+        "label": "Elo"
+      },
+      {
+        "label": "Diners"
+      },
+      {
+        "label": "Mastercard"
+      },
+      {
+        "label": "Visa"
+      },
+      {
+        "label": "Pix"
+      }
+    ],
+    "title": "Formas de pagamento"
+  },
+  "sections": [
+    {
+      "items": [
+        {
+          "href": "/granado/nossa-historia",
+          "label": "Nossa história",
+          "openInNewTab": false
+        },
+        {
+          "href": "/granado/lojas",
+          "label": "Nossas lojas"
+        },
+        {
+          "href": "https://granado.gupy.io/",
+          "label": "Trabalhe conosco",
+          "openInNewTab": true
+        }
+      ],
+      "label": "Institucional",
+      "children": [
+        {
+          "href": "/quemsomos",
+          "label": "Quem somos"
+        },
+        {
+          "href": "/privacidadeeseguranca",
+          "label": "Privacidade e segurança"
+        },
+        {
+          "href": "/termosdeuso",
+          "label": "Termos de uso"
+        },
+        {
+          "href": "/trabalheconosco",
+          "label": "Trabalhe conosco"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "href": "https://suporte.granado.com.br/hc/pt-br",
+          "label": "Ajuda e contato",
+          "openInNewTab": true
+        },
+        {
+          "href": "/granado/parceriaseeventos",
+          "label": "Parcerias e Eventos"
+        },
+        {
+          "href": "/granado/politica-de-troca",
+          "label": "Política de Troca"
+        },
+        {
+          "href": "https://b2b.granado.com.br/b2b/",
+          "label": "Revenda | B2B"
+        },
+        {
+          "href": "/granado/venda-corporativa-granado",
+          "label": "Venda Corporativa"
+        }
+      ],
+      "label": "Atendimento",
+      "children": [
+        {
+          "href": "/centraldeatendimento",
+          "label": "Central de atendimento"
+        },
+        {
+          "href": "/whatsapp",
+          "label": "Fale conosco pelo WhatsApp"
+        },
+        {
+          "href": "/trocaedevolucao",
+          "label": "Troca e devolução"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "href": "/granado/cartaopresente",
+          "label": "Cartão Presente"
+        },
+        {
+          "href": "/granado/codigodeeticaeconduta",
+          "label": "Código de ética e conduta"
+        },
+        {
+          "href": "/granado/retire-em-loja-e-entrega-expressa",
+          "label": "FAQ | Retira em Loja e Entrega Expressa"
+        },
+        {
+          "href": "https://www.granado.eu/",
+          "label": "Granado Europa"
+        },
+        {
+          "href": "/granado/regrasepromocoes",
+          "label": "Regras e promoções"
+        },
+        {
+          "href": "/granado/termosgerais",
+          "label": "Termos gerais"
+        },
+        {
+          "href": "/granado/termos-de-uso",
+          "label": "Termos de uso"
+        },
+        {
+          "href": "/granado/privacy-policy-cookie-restriction-mode",
+          "label": "Política de privacidade"
+        }
+      ],
+      "label": "Links Úteis",
+      "children": [
+        {
+          "href": "/loginecadastro",
+          "label": "Login e cadastro"
+        },
+        {
+          "href": "/meuspedidos",
+          "label": "Meus pedidos"
+        }
+      ]
+    }
+  ],
+  "copyright": [
+    {
+      "items": [
+        {
+          "label": "© Copyright Granado 2025 -  Todos os direitos reservados ",
+          "fontSize": "sm",
+          "htmlFormat": false
+        },
+        {
+          "label": "Jesmond Comercio Varejista LTDA | CNPJ:  08.743.025/0010-88 | Estrada São Domingos, SN lote 14-A Parte – Boa  Esperança – Seropédica - RJ | CEP: 23894-080",
+          "fontSize": "sm"
+        },
+        {
+          "label": "Horário de funcionamento: De segunda a sexta-feira, das 08:00 às 17:30h | Telefone: 0800 940 6730 - 4000-1257",
+          "fontSize": "xs"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "label": "Farmacêutico Responsável Técnico: Estael da Silva Pereira – CRF-RJ: 10416",
+          "fontSize": "sm"
+        },
+        {
+          "label": "CMVS 046/2024 | 733 - AFE: 7.90899-1",
+          "fontSize": "sm"
+        }
+      ]
+    }
+  ],
+  "extraLinks": [
+    {
+      "href": "http://www.google.com",
+      "link": "http://www.google.com/",
+      "label": "Política de privacidade"
+    },
+    {
+      "href": "http://www.google.com",
+      "link": "http://www.google.com",
+      "label": "Termos de serviço"
+    }
+  ],
+  "highlights": [
+    {
+      "href": "/granado/lojas",
+      "type": "Storefront",
+      "label": "Nossas Lojas",
+      "description": "Encontre a loja mais próxima"
+    },
+    {
+      "href": "https://api.whatsapp.com/send?phone=558009406730&text=Oi",
+      "type": "WhatsApp",
+      "label": "Fale Conosco",
+      "description": "Tire suas dúvidas pelo WhatsApp",
+      "openInNewTab": true
+    }
+  ],
+  "mobileApps": {
+    "apple": "http://www.google.com",
+    "android": "http://www.google.com"
+  },
+  "newsletter": {
+    "form": {
+      "helpText": "<p>Ao se inscrever, você está aceitando nossa <a href=\"/\" class=\"link\">Política de Privacidade</a>.</p>"
+    },
+    "title": "Inscreva-se para receber ofertas e dicas exclusivas!",
+    "description": "Participe e ganhe 10% de desconto na primeira compra",
+    "placeholder": "Digite seu e-mail"
+  },
+  "backToTheTop": {
+    "text": "Voltar ao topo"
+  },
+  "__resolveType": "site/sections/Footer/Footer.tsx",
+  "regionOptions": {
+    "currency": [
+      {
+        "href": "/",
+        "label": "Brasil BRL"
+      },
+      {
+        "href": "/",
+        "label": "United Stated USD"
+      }
+    ],
+    "language": [
+      {
+        "href": "/",
+        "label": "PT"
+      },
+      {
+        "href": "/",
+        "label": "EN"
+      }
+    ]
+  },
+  "switcherStore": [
+    {
+      "href": "/",
+      "label": "Granado"
+    },
+    {
+      "href": "https://phebo.com.br/",
+      "label": "Phebo",
+      "openInNewTab": true
+    },
+    {
+      "label": "Care",
+      "href": "https://carenb.com/",
+      "openInNewTab": true
+    }
+  ]
+}

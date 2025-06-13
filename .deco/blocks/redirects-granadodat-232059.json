@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/datas-especiais",
+    "to": "/datas-especiais",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

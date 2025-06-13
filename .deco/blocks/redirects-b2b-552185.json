@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/b2b",
+    "to": "https://b2b.granado.com.br/",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

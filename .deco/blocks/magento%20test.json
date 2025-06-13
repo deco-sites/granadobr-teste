@@ -1,0 +1,19 @@
+{
+  "__resolveType": "magento/loaders/product/list.ts",
+  "props": {
+    "pageSize": 8,
+    "currentPage": 1,
+    "customFields": {
+      "active": false,
+      "overrideList": []
+    },
+    "sort": {
+      "sortBy": {
+        "value": "name"
+      },
+      "order": "ASC"
+    },
+    "filter": [],
+    "search": "21483"
+  }
+}

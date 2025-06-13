@@ -1,0 +1,30 @@
+{
+  "__resolveType": "site/loaders/productsFromRecords.ts",
+  "filtersToShow": [
+    {
+      "id": "fragrancias_str",
+      "label": "Fragrância "
+    },
+    {
+      "id": "marca_str",
+      "label": "Marca"
+    },
+    {
+      "id": "volume_str",
+      "label": "Volume"
+    },
+    {
+      "id": "linha_str",
+      "label": "Linhas"
+    }
+  ],
+  "unavailableThreshold": 10,
+  "limit": 36,
+  "mobileLimit": 16,
+  "filtersParams": [
+    {
+      "key": "discount",
+      "value": "70"
+    }
+  ]
+}

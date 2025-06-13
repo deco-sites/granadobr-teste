@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/regrasepromocoes",
+    "to": "/granado/regrasepromocoes",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Retire em loja e entrega ",
+  "path": "/granado/retire-em-loja-e-entrega-expressa",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "free shipping bar"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Institucional/pickupInStoreAndExpressDelivery.tsx",
+      "home": "Início",
+      "homeTitle": "FAQ - Retire em Loja e Entrega Expressa",
+      "pickupInStoreTitle": "FAQ - Retire em Loja",
+      "expressDeliveryTitle": "FAQ - Entrega Expressa",
+      "pickupInStorePolicies": [
+        {
+          "title": "Como funciona o Retire em Loja?",
+          "content": "<p>Ao finalizar sua compra, selecione a opção “Retirada em loja”. As unidades com estoque disponível para os seus produtos serão exibidas para que você escolha a mais conveniente.</p><p>Você receberá todas as atualizações do pedido por e-mail.</p>"
+        },
+        {
+          "title": "Qual é o prazo para retirada dos produtos?",
+          "content": "<p>É necessário apresentar o código de retirada (diferente do número do pedido) na loja escolhida. Você pode encontrá-lo nos e-mails que enviamos ou na aba “Meus Pedidos” no site.</p>"
+        },
+        {
+          "title": "Posso retirar meu pedido imediatamente após a compra?",
+          "content": "<p>Não. A retirada só pode ser feita após o recebimento do código de retirada por e-mail.</p>"
+        },
+        {
+          "title": "Outra pessoa pode retirar meu pedido?",
+          "content": "<p>Sim! Basta que a pessoa apresente o código de retirada no momento da entrega.</p>"
+        },
+        {
+          "title": "Qual é o prazo máximo para retirada?",
+          "content": "<p>Você tem até 7 dias corridos após o envio do e-mail de confirmação para retirar o pedido. Após esse prazo, ele será devolvido ao nosso Centro de Distribuição e o valor reembolsado.</p>"
+        },
+        {
+          "title": "Posso trocar meus produtos?",
+          "content": "<p>Sim! As trocas podem ser feitas na loja onde o pedido foi retirado ou pelo nosso SAC.</p><p>Atenção:</p><p>Produtos promocionais da Semana Granado e Black Friday não podem ser trocados.</p><p>As trocas devem ser solicitadas em até 7 dias corridos após a retirada, com apresentação da nota fiscal e do produto lacrado.</p><p>Permitimos apenas uma troca por produto. Brindes não são passíveis de troca.</p><p>O valor da troca será equivalente ao valor pago no ato da compra, sem novos descontos.</p>"
+        },
+        {
+          "title": "E se o produto estiver com defeito?",
+          "content": "<p>Se identificar avarias, entre em contato com o SAC ou dirija-se à loja onde retirou o pedido, dentro do prazo de 7 dias corridos contados a partir da data de retirada do pedido.</p>"
+        },
+        {
+          "title": "Como funcionam devoluções e cancelamentos?",
+          "content": "<p>O pedido pode ser cancelado caso não haja disponibilidade de estoque.</p><p>Em caso de arrependimento, entre em contato com o nosso SAC.</p>"
+        },
+        {
+          "title": "Cancelei meu pedido. Quando recebo o estorno?",
+          "content": "<p>PIX: até 7 dias úteis</p><p>Cartão de crédito: até 2 faturas subsequentes</p><p>Boleto bancário: entre em contato com o SAC para solicitar o código de postagem e informar os dados bancários.</p><p>Em caso de dúvidas, entre em contato com a nossa Central de Atendimento:<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:sac@granadophebo.com.br\">sac@granadophebo.com.br</a></p>"
+        },
+        {
+          "title": "Posso mudar o local de retirada depois de efetuar a compra?",
+          "content": "<p>Não! Após realizar o seu pedido, não será possível trocar o local escolhido.</p>"
+        }
+      ],
+      "expressDeliveryPolicies": [
+        {
+          "title": "Como funciona a Entrega Expressa?",
+          "content": "<p>Ao finalizar sua compra no site, selecione a opção “Entrega expressa (1 dia útil)”. O pedido será enviado a partir de uma de nossas lojas físicas.</p><p>Se não houver estoque disponível, o pedido será automaticamente direcionado ao nosso Centro de Distribuição, o que pode alterar o prazo de entrega.</p>"
+        },
+        {
+          "title": "Qual é o prazo de entrega dos produtos?",
+          "content": "<p>O prazo da entrega expressa é de até 1 dia útil após a finalização da preparação do pedido.<br>Caso o envio seja feito pelo nosso Centro de Distribuição, esse prazo poderá ser alterado.</p>"
+        },
+        {
+          "title": "Posso trocar os produtos recebidos?",
+          "content": "<p>Sim! A troca pode ser feita em uma de nossas lojas físicas, mediante apresentação da nota fiscal, ou através do nosso SAC.</p><p>Importante:</p><p>Produtos promocionais da Semana Granado não podem ser trocados.</p><p>O prazo para troca é de até 7 dias corridos após a entrega, com o item lacrado e mediante apresentação do documento fiscal.</p><p>Permitimos uma troca por produto. Brindes não são elegíveis para troca.</p><p>O valor da troca será o mesmo pago no momento da compra, sem aplicação de novos descontos.</p>"
+        },
+        {
+          "title": "Meu pedido foi cancelado. Qual o prazo para o reembolso?",
+          "content": "<p>Se algum item da sua compra estiver indisponível, o pedido poderá ser cancelado e você será notificado via SMS.</p><p>PIX: até 7 dias úteis</p><p>Cartão de crédito: até 2 faturas subsequentes</p><p>Boleto bancário: entre em contato com o SAC para solicitar o código de postagem e informar os dados bancários.</p><p>Em caso de dúvidas, entre em contato com a nossa Central de Atendimento:<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:sac@granadophebo.com.br\">sac@granadophebo.com.br</a></p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer - 01"
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx",
+      "type": "website",
+      "title": "Retire em loja e entrega expressa | Granado Pharmácias",
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b90680ce-6fe6-49cb-9d0f-0f75c5b558aa",
+      "noIndexing": false,
+      "description": "Retire em loja e entrega expressa | Granado Pharmácias",
+      "descriptionTemplate": "%s",
+      "canonical": "https://www.granado.com.br/granado/retire-em-loja-e-entrega-expressa"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Header Global"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

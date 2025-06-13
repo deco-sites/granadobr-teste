@@ -1,0 +1,42 @@
+{
+  "name": "política de troca",
+  "path": "/granado/politica-de-troca",
+  "sections": [
+    {
+      "__resolveType": "Header Global"
+    },
+    {
+      "home": "Início",
+      "policies": [
+        {
+          "title": "Produto com defeito, avaria de transporte ou pedido violado",
+          "content": "<div class=\"mb-4\"><p class=\"mb-4\">Caso o produto adquirido esteja com defeito de fábrica, ou qualquer outro problema que impeça o seu uso correto:</p><p class=\"mb-4\">- Confira no ato da entrega se a embalagem está violada ou se existe algum produto com avaria. Se houver, recuse o pedido e anote na Nota Fiscal o motivo da devolução.</p><p class=\"mb-2\">- Se o pedido foi recebido, você deve realizar contato com o nosso Serviço de Atendimento ao Consumidor no prazo máximo de 07 (sete) dias corridos, a contar da data de recebimento do pedido. Neste caso, o item será trocado por um produto igual ao adquirido. A disponibilidade de estoque do produto será consultada. A Granado | Phebo realizará a troca assim que a devolução dos produtos for constatada em nosso depósito.</p></div>"
+        },
+        {
+          "title": "Arrependimento de compra",
+          "content": "<div class=\"mb-4\"><p class=\"mb-4\">A desistência da compra é um direito do consumidor Granado. Em caso de arrependimento, siga as instruções abaixo:</p><p class=\"mb-4\">- Entre contato com o nosso Serviço de Atendimento ao Consumidor através do número <a href=\"tel:08009406730\" class=\"text-green-800\" data-mce-href=\"tel:08009406730\">0800 940 6730</a> ou do e-mail <a href=\"mailto:sac@granado.com.br\" class=\"text-green-800\" data-mce-href=\"mailto:sac@granado.com.br\">sac@granado.com.br</a> no prazo máximo de 07 (sete) dias corridos da data de recebimento do produto.</p><p class=\"mb-4\">- O produto deverá ser devolvido intacto e junto com a Nota Fiscal do pedido.</p><p class=\"mb-4\">- Assim que a devolução do produto for constatada em nosso depósito, faremos a troca por outro produto de mesmo valor. O estoque de produtos será consultado, para avaliar a possibilidade da troca.</p><p class=\"mb-4\">- Caso você não tenha interesse em trocar o item, o valor será estornado.</p><p class=\"mb-2\">- Não realizamos a troca de produtos bonificados no site.</p></div>"
+        },
+        {
+          "title": "Estorno do valor da compra",
+          "content": "<div class=\"mb-4\"><p class=\"mb-4\">Caso o estorno do valor da compra se faça necessário, os procedimentos são:</p><p class=\"mb-4\">- Realizar contato com o nosso Serviço de Atendimento ao Consumidor através do número <a class=\"text-blue-500\" href=\"tel:08009406730\" data-mce-href=\"tel:08009406730\">0800 940 6730</a> ou do e-mail <a class=\"text-blue-500\" href=\"mailto:sac@granado.com.br\" data-mce-href=\"mailto:sac@granado.com.br\">sac@granado.com.br</a> no prazo máximo de 07 (sete) dias corridos da data de recebimento do produto.</p><p class=\"mb-4\">- Pedidos pagos com boleto bancário: para efetuarmos o depósito, você deverá fornecer os dados bancários do consumidor que efetuou a compra. Os dados que são necessários para o depósito são:</p><ul class=\"list-disc pl-5 mb-4\"><li class=\"mb-1\">Nome Completo;</li><li class=\"mb-1\">Número do CPF;</li><li class=\"mb-1\">Nome do Banco;</li><li class=\"mb-1\">Número da conta bancária,</li><li class=\"mb-1\">Número da agência.</li></ul><p class=\"mb-4\">- Pedidos pagos com cartão de crédito: o estorno será solicitado à administradora do seu cartão.</p><p class=\"mb-2\"><span class=\"font-bold\">IMPORTANTE:</span> O estorno das parcelas pagas poderá ocorrer em até 02 (duas) faturas subsequentes, pois dependendo da data do vencimento da fatura original, o estorno poderá ocorrer no mês seguinte à solicitação de cancelamento. Este procedimento é de responsabilidade da administradora do cartão.</p></div>"
+        }
+      ],
+      "pageTitle": "Política de Troca",
+      "pageSubtitle": "<div class=\"mb-4\"><p class=\"mb-2\">Para tratar sobre o tema Trocas e Devoluções, entre em contato com o Serviço de Atendimento ao Consumidor através do número <a class=\"text-green-800\" href=\"tel:08009406730\" data-mce-href=\"tel:08009406730\">0800 940 6730</a>.</p><p class=\"mb-6\">O atendimento funciona de segunda a sexta-feira (exceto feriados) das 09h às 18h. A ligação é gratuita.</p><p class=\"mb-2\">Se preferir, envie-nos uma mensagem através do e-mail <a class=\"text-green-800\" href=\"mailto:sac@granado.com.br\" data-mce-href=\"mailto:sac@granado.com.br\">sac@granado.com.br</a>.</p></div>",
+      "__resolveType": "site/sections/Institucional/ExchangePolicy.tsx"
+    },
+    {
+      "__resolveType": "Footer - 04"
+    },
+    {
+      "type": "website",
+      "title": "Política de Troca | Granado Pharmácias",
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b90680ce-6fe6-49cb-9d0f-0f75c5b558aa",
+      "noIndexing": false,
+      "description": "Política de Troca na Granado",
+      "__resolveType": "website/sections/Seo/Seo.tsx",
+          "canonical": "https://www.granado.com.br/granado/politica-de-troca"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

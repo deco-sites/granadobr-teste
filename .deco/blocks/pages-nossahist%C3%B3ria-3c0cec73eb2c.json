@@ -1,0 +1,61 @@
+{
+  "name": "Nossa História",
+  "path": "/granado/nossa-historia",
+  "sections": [
+    {
+      "__resolveType": "Header Global"
+    },
+    {
+      "__resolveType": "site/sections/Content/Intro.tsx",
+      "text": "Nossa História",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/03ad48aa-b891-4245-9f78-90af68538182",
+      "alignment": "Center"
+    },
+    {
+      "__resolveType": "site/sections/Content/TextWithImage.tsx",
+      "services": [
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/1840b9bf-2f97-4080-8f75-5ddd5f864608",
+          "label": "BOTICA MAIS TRADICIONAL DO BRASIL",
+          "placement": "right",
+          "description": "<p id=\"E27AD46\">Fundada em 1870 pelo português José Antônio Coxito Granado, a Granado ficava na Rua Direita, 14/16, no Centro do Rio de Janeiro, uma das mais movimentadas da época. Hoje, os cariocas a conhecem como rua Primeiro de Março, e a Granado lá permanece com suas portas abertas.</p><p><br data-mce-bogus=\"1\"></p><p>Em seus primórdios, a ‘pharmácia’ manipulava produtos com extratos vegetais de plantas, ervas e flores brasileiras, cultivadas no sítio do seu fundador, em Teresópolis (RJ). Além desses medicamentos, Coxito ainda importava produtos da Europa e adaptava suas fórmulas para os padrões e as necessidades dos brasileiros e daqueles que aqui moravam.</p>"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/2611ff8a-3739-405e-b8f0-77b6e6d8fa32",
+          "label": "FARMÁCIA OFICIAL DA FAMÍLIA IMPERIAL",
+          "placement": "left",
+          "description": "<p>A qualidade e eficácia desses produtos logo tornaram a farmácia uma das fornecedoras oficiais da Corte. Desta aproximação com a Família Imperial, nasceu a amizade com Dom Pedro II que, em 1880, conferiu à Granado o título de Pharmácia Oficial da Família Imperial Brasileira.</p><p><br data-mce-bogus=\"1\"></p><p>Em 1903, João Bernardo Granado, irmão de Coxito, criou o Polvilho Antisséptico, produto mais antigo e conhecido da empresa. Sua fórmula, que teve registro aprovado por Oswaldo Cruz, permanece inalterada e protegida com muito zelo. No período republicano, a Granado manteve seu status e conquistou, entre outros, o jurista Rui Barbosa, Francisco Pereira Passos e o abolicionista José do Patrocínio.</p><p><br data-mce-bogus=\"1\"></p><p>Em 1912, a farmácia expandiu para um prédio na Rua do Senado, onde por mais de cem anos funcionou uma das suas fábricas. Anos depois, foi adquirida a fábrica de Belém do Pará, onde são produzidos os sabonetes em barra. Os demais produtos da botica ganham vida no moderno Complexo Industrial de Japeri (RJ), com instalações e equipamentos de última geração espalhados por 30.000m² de área.</p>"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/fa860a8a-9ffc-4eeb-a2cd-577a7617f2c4",
+          "label": "FORÇA FINANCEIRA E CRESCIMENTO CONSTANTE",
+          "placement": "right",
+          "description": "<p>A primeira filial da Granado foi inaugurada em 1917, na rua Conde de Bonfim, 300, na Tijuca (RJ). Em 2007, a farmácia ganhou endereços nos bairros do Leblon (RJ) e Jardins (SP). No ano seguinte veio o endereço da loja virtual (www.granado.com.br) e, em 2009, a loja da rua do Lavradio (RJ) e a expansão da loja da rua Primeiro de Março. Hoje, são mais de 90 endereços, espalhados pelas principais cidades do País, e a Loja Virtual.</p><p><br data-mce-bogus=\"1\"></p><p>Além da manipulação de medicamentos, Coxito também se aventurou no ramo de publicações. Durante os anos de 1887 a 1940, ele editou o almanaque anual ‘Pharol da Medicina’. Nele, médicos, farmacêuticos e seu fiel público eram informados sobre os novos produtos da sua farmácia. Em 2007, o folheto voltou a ser impresso, com o mesmo propósito inicial: divulgar inovações em suas linhas de produtos e seus lançamentos.</p><p><br data-mce-bogus=\"1\"></p><p>Depois de três gerações na família Granado, a marca hoje é presidida pelo inglês Christopher Freeman. Em 2004, já sob o seu comando, a Perfumaria Phebo foi incorporada à empresa, bem como os produtos que fabricava. Desde então, novos itens passaram a ser desenvolvidos para a perfumaria, e hoje totalizam linhas exclusivas e centenas de produtos excelência para o cuidado da casa, do corpo e o banho.</p>"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b67bdedd-39a0-43b0-ab96-8d9fbede1915",
+          "label": "GRANADO INTERNACIONAL",
+          "placement": "left",
+          "description": "<p>Em 2013, Granado &amp; Phebo iniciou seu processo de internacionalização com um espaço na loja de departamento Le Bon Marché, em Paris. Ainda como parte desta estratégia, em 2016, a empresa anunciou a venda de parte minoritária para a gigante espanhola Puig.</p><p><br data-mce-bogus=\"1\"></p><p>Ao longo dos mais de 150 anos de história, a tradição em produzir itens com eficácia comprovada, fórmulas enriquecidas com extratos naturais e design exclusivo se manteve. Reconhecida por gerações de brasileiros, a Granado se firma nos mercados nacional e internacional de cosméticos como sinônimo de qualidade superior, solidez, sustentabilidade e constante crescimento.</p>"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/c8f53f77-3e4b-4dab-a8c3-47a8a664e696",
+          "label": "LOJA CONCEITO",
+          "placement": "right",
+          "description": "<p>A primeira loja conceito da Granado foi inaugurada em 2005, no Centro do Rio de Janeiro, no que é, ainda, o primeiro endereço da farmácia, aberta em 1870. Quando começou se a pensar na modernização da marca, ficou claro que o que a empresa tinha de mais rico era o seu acervo, muito bem conservado pela família Granado durante as três gerações em que administrou a marca.</p><p><br data-mce-bogus=\"1\"></p><p>Vitrines originais, almofarizes, balanças, propagandas de época, quadros e algumas embalagens centenárias ganharam destaque na decoração. A parede de tijolos de demolição e a iluminação quente e indireta recriam o ambiente das farmácias do Século XIX.</p><p><br data-mce-bogus=\"1\"></p><p>Uma releitura de uma mesa de manipulação na entrada da loja expõe as novidades como cremes, loções e sabonetes. Os consumidores encontram ainda, além dos carros-chefes, linhas exclusivas.</p><p><br data-mce-bogus=\"1\"></p><p>Os clientes também têm auxílio de um profissional de Farmácia, que indica tratamentos e responde dúvidas sobre os produtos e suas formulações, ricas em ingredientes naturais de alta qualidade. Hoje todas as lojas Granado seguem este conceito.</p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer - 04"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "title": "Granado | Granado Pharmácias",
+    "description": "Encontre promoções exclusivas nas linhas Granado e Phebo. Tradição e Qualidade. Sabonetes, Talco, Esmalte, Perfumes, Cremes e mais.",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b90680ce-6fe6-49cb-9d0f-0f75c5b558aa",
+    "canonical": "https://www.granado.com.br/granado/nossa-historia"
+  }
+}

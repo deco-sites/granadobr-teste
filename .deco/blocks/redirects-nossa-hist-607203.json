@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/nossa-historia",
+    "to": "/granado/nossa-historia",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

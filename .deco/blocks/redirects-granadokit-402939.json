@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/kit-presente-cha-preto-bergamota",
+    "to": "https://www.granado.com.br/granado/presentes",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

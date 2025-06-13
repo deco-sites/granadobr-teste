@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/gel-facial-hidratante-antioleosidade-50g",
+    "to": "https://www.granado.com.br/",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

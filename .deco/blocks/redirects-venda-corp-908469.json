@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/venda-corporativa-granado",
+    "to": "/granado/venda-corporativa-granado",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

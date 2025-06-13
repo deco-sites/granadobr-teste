@@ -1,0 +1,47 @@
+{
+  "page": {
+    "__resolveType": "Algolia PLP"
+  },
+  "layout": {
+    "format": "Show More",
+    "columns": {
+      "mobile": 2,
+      "desktop": 4
+    },
+    "variant": "aside"
+  },
+  "matcher": "/ProductGalleryInfo/*",
+  "contents": [
+    {
+      "text": "<p>teste</p>",
+      "title": "teste"
+    }
+  ],
+  "cardLayout": {
+    "hide": {
+      "cta": true,
+      "new": true,
+      "discount": false,
+      "allPrices": false,
+      "skuSelector": true,
+      "favoriteIcon": true,
+      "installments": true,
+      "productDescription": true
+    },
+    "basics": {
+      "contentAlignment": "Center"
+    },
+    "outOfStock": "Indisponível",
+    "onMouseOver": {
+      "showFavoriteIcon": true,
+      "image": "Change image"
+    }
+  },
+  "__resolveType": "site/sections/Product/SearchResult.tsx",
+  "startingPage": 0,
+  "showcaseBanner": {
+    "banner": {
+      "image": {}
+    }
+  }
+}

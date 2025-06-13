@@ -1,0 +1,121 @@
+{
+  "seo": {
+    "type": "website",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/0966762b-486f-4671-9ca3-7f8cfb5740b5",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/2c2ff583-bce7-4eea-b16c-edb5567ba11d",
+    "jsonLDs": [],
+    "noIndexing": false,
+    "description": "Encontre promoções exclusivas nas linhas Granado e Phebo. Tradição e Qualidade. Sabonetes, Talco, Esmalte, Perfumes, Cremes e mais.",
+    "titleTemplate": "%s | Granado Pharmácias",
+    "descriptionTemplate": "%s",
+    "title": "Granado Pharmácias"
+  },
+  "site": "granado",
+  "theme": {
+    "__resolveType": "Fashion theme"
+  },
+  "flavor": {
+    "framework": "fresh"
+  },
+  "global": [
+    {
+      "__resolveType": "algolia/sections/Analytics/Algolia.tsx"
+    },
+    {
+      "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx",
+      "domain": "www.granado.com.br"
+    },
+    {
+      "__resolveType": "AnalyticsGranado"
+    }
+  ],
+  "routes": [
+    {
+      "__resolveType": "Granado Proxies"
+    },
+    {
+      "__resolveType": "website/loaders/redirects.ts"
+    },
+    {
+      "__resolveType": "website/loaders/redirectsFromCsv.ts",
+      "from": "static/redirects-pdp-granado.csv",
+      "redirects": []
+    },
+    {
+      "from": "static/redirect-granado-magento.csv",
+      "redirects": [],
+      "__resolveType": "website/loaders/redirectsFromCsv.ts"
+    },
+    {
+      "from": "static/redirects-url-404-16-meses-v2.csv",
+      "redirects": [],
+      "__resolveType": "website/loaders/redirectsFromCsv.ts"
+    },
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    }
+  ],
+  "baseUrl": "https://loja.granado.com.br",
+  "caching": {
+    "directives": [],
+    "enabled": false
+  },
+  "magento": {
+    "site": "granado",
+    "apiKey": "",
+    "storeId": 21,
+    "apiKeyV2": {
+      "name": "MAGENTO_API_KEY",
+      "encrypted": "8927c3f7fe9923cd398dc3b29743683b040e355a0174ca07fe3905fb94d9280e1830d7372c570fcfe37ec89e108757fc",
+      "__resolveType": "website/loaders/secret.ts"
+    },
+    "imagesUrl": "https://loja.granado.com.br/media/catalog/product",
+    "currencyCode": "BRL",
+    "clientGranadoApi": {},
+    "baseUrl": "https://loja.granado.com.br/"
+  },
+  "storeId": 21,
+  "commerce": {
+    "platform": "other"
+  },
+  "features": {
+    "dontUpdateCartAfterAddItem": true,
+    "dangerouslyDisableOnLoadUpdate": true,
+    "dangerouslyDisableOnVisibilityChangeUpdate": true,
+    "dangerouslyReturnOnlyStatementAfterAddItemAction": true,
+    "dangerouslyReturnOnlyStatement": true
+  },
+  "platform": "magento",
+  "abTesting": {
+    "name": "rollup",
+    "enabled": false,
+    "matcher": {
+      "__resolveType": "RollupGranado"
+    },
+    "replaces": [],
+    "urlToRunAgainst": "https://www.granado.com.br",
+    "includeScriptsToHead": {
+      "includes": []
+    },
+    "includeScriptsToBody": {
+      "includes": []
+    }
+  },
+  "imagesUrl": "https://loja.granado.com.br/media/catalog/product",
+  "currencyCode": "BRL",
+  "__resolveType": "site/apps/site.ts",
+  "applicationId": "9ELQBKXXMD",
+  "algoliaUrlProducts": false,
+  "firstByteThresholdMS": false,
+  "avoidRedirectingToEditor": false,
+  "errorPage": {
+    "__resolveType": "pages-Not%20Found-376314"
+  },
+  "whilelistURLs": [],
+  "whitelistPatterns": [],
+  "originHeader": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "c500cbd8e6ddac43760517b55910ab47be15bb556d704b61382546d24cea014a226618ea38d747d54e4e6139b3ae1fdc",
+    "name": "ORIGIN_HEADER"
+  }
+}

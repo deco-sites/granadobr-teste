@@ -1,0 +1,14 @@
+{
+  "__resolveType": "website/matchers/multi.ts",
+  "op": "and",
+  "matchers": [
+    {
+      "__resolveType": "website/matchers/random.ts",
+      "traffic": 0.99
+    },
+    {
+      "__resolveType": "website/matchers/host.ts",
+      "includes": "www.granado.com.br"
+    }
+  ]
+}

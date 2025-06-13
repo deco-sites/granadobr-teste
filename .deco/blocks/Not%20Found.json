@@ -1,0 +1,12 @@
+{
+  "__resolveType": "site/sections/Product/NotFound.tsx",
+  "backgroundImage": "https://data.decoassets.com/granadobr/d22aa2c7-f39d-4d99-ad79-1c4583bd8eca/background.webp",
+  "title": "Ops!",
+  "firstText": "<p>A página que você buscou não foi encontrada...</p><p>Mas não se preocupe, viemos resgatar você!</p>",
+  "secondText": "<p>Se preferir, você também pode usar as opções </p><p>de navegação lá em cima da página.</p>",
+  "cta": {
+    "link": "/",
+    "text": "Leve-me a pagina inicial"
+  },
+  "imageRight": "https://data.decoassets.com/granadobr/75173d94-6cd0-4898-ad6d-ab18ff3929fc/balao.webp"
+}

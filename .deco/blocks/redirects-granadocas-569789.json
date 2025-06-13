@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/casa/difusordeambientes",
+    "to": "https://www.granado.com.br/granado/casa/aromatizadores-de-ambiente",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

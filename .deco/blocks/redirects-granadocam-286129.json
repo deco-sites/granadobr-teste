@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/campanhas/bebe-b2b",
+    "to": "https://b2b.granado.com.br/b2b/linhas-granado/bebe",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

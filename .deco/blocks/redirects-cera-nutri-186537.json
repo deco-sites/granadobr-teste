@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/cera-nutritiva-unhas-e-cut-237-culas-7g",
+    "to": "https://www.granado.com.br/granado/cera-nutritiva-unhas-e-cuticulas-pink-granado-7g",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/cartaopresente",
+    "to": "/granado/cartaopresente",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

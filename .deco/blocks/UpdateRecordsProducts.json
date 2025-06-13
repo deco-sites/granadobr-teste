@@ -1,0 +1,7 @@
+{
+  "__resolveType": "site/loaders/decoRecordProducts.ts",
+  "skus": {
+    "__resolveType": "Black Friday Sku List"
+  },
+  "updateInterval": 30
+}

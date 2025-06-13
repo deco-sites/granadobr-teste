@@ -1,0 +1,122 @@
+{
+  "features": {
+    "dangerouslyDisableWishlist": false,
+    "dangerouslyDisableOnLoadUpdate": true,
+    "dangerouslyReturnNullAfterAction": true,
+    "dangerouslyDontReturnCartAfterAction": true,
+    "dangerouslyDisableOnVisibilityChangeUpdate": true
+  },
+  "apiConfig": {
+    "site": "granado",
+    "apiKey": {
+      "name": "MAGENTO_API_KEY_APPS",
+      "encrypted": "8927c3f7fe9923cd398dc3b29743683b040e355a0174ca07fe3905fb94d9280e1830d7372c570fcfe37ec89e108757fc",
+      "__resolveType": "website/loaders/secret.ts"
+    },
+    "storeId": 21,
+    "useSuffix": true,
+    "enableCache": false,
+    "storeHeader": "site",
+    "currencyCode": "BRL",
+    "baseUrl": "https://loja.granado.com.br/",
+    "originHeader": {
+      "__resolveType": "website/loaders/secret.ts",
+      "encrypted": "c500cbd8e6ddac43760517b55910ab47be15bb556d704b61382546d24cea014a226618ea38d747d54e4e6139b3ae1fdc",
+      "name": "ORIGIN_HEADER"
+    }
+  },
+  "cartConfigs": {
+    "extensions": [],
+    "countProductImageInCart": 1,
+    "changeCardIdAfterCheckout": false
+  },
+  "imagesConfig": {
+    "imagesQtd": 3,
+    "imagesUrl": "https://loja.granado.com.br/media/catalog/product"
+  },
+  "__resolveType": "site/apps/magento.ts",
+  "pricingConfig": {
+    "maxInstallments": 10,
+    "minInstallmentValue": 30
+  },
+  "customAttributes": [
+    "tag__phebo",
+    "fragrancias",
+    "fragrancias_str",
+    "marca",
+    "marca_str",
+    "volume",
+    "volume_str",
+    "familia_olfativa",
+    "familia_olfativa_str",
+    "linha",
+    "linha_str",
+    "category_ids",
+    "description",
+    "google_product_category",
+    "tipo_de_pele",
+    "tipo_de_pele_str",
+    "tipo_de_pelo",
+    "tipo_de_pelo_str",
+    "como_usar__phebo",
+    "ingredientes__phebo",
+    "free_shipping__phebo",
+    "options_container"
+  ],
+  "productCustomProps": {
+    "customFilters": [
+      {
+        "type": "EQUAL",
+        "value": "tipo_de_pele"
+      },
+      {
+        "type": "EQUAL",
+        "value": "tipo_de_pelo"
+      },
+      {
+        "type": "EQUAL",
+        "value": "familia_olfativa"
+      },
+      {
+        "type": "EQUAL",
+        "value": "fragrancias"
+      },
+      {
+        "type": "EQUAL",
+        "value": "linha"
+      },
+      {
+        "type": "EQUAL",
+        "value": "marca"
+      },
+      {
+        "type": "EQUAL",
+        "value": "volume"
+      }
+    ],
+    "customAttributes": [
+      "tag__phebo",
+      "fragrancias",
+      "fragrancias_str",
+      "marca",
+      "marca_str",
+      "volume",
+      "volume_str",
+      "familia_olfativa",
+      "familia_olfativa_str",
+      "linha",
+      "linha_str",
+      "category_ids",
+      "description",
+      "google_product_category",
+      "tipo_de_pele",
+      "tipo_de_pele_str",
+      "tipo_de_pelo",
+      "tipo_de_pelo_str",
+      "como_usar__phebo",
+      "ingredientes__phebo",
+      "free_shipping__phebo",
+      "options_container"
+    ]
+  }
+}

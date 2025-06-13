@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "50fe1b344f803e81a12a9f44282acda7d914fdd3c410e5f9c5a61c80e345374f2f30bb611273d0998aa36d8220b37d9a8e8bdfa195ac9ddacaefbc6cd0d7329923ece6d4fb7700ecc4b04e8355859a8011a7c6dd9ac8a39ee602213d9d38421cc0f816385eef5d75d519f6e6e8bf7aecd0b02a3286a644e3df8b2e270524b41a9c96d0d87bb8b41f95291ffc2c48220f800b02fea9106c83232315fc02d7f88e2130798709627b41ca8442b817365e27889c1a63131c06f59356606fe86aa219b5893e45e82adb4d79933b580477b79b2f21524fb8a8442490389478bfaf65b6"
+  },
+  "url": "libsql://granadobr-decocx.turso.io"
+}

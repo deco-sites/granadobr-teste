@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/codigodeeticaeconduta",
+    "to": "/granado/codigodeeticaeconduta",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

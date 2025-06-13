@@ -1,0 +1,10 @@
+{
+    "adminApiKey": {
+      "name": "ADMIN_KEY",
+      "encrypted": "88a3f91a03b5a96d76a4fdd5d5789e9617a602bcbb49d8196d34abde901a33800944cc63a1dc0a56eabcc918879c6e1d",
+      "__resolveType": "website/loaders/secret.ts"
+    },
+    "searchApiKey": "ae76ce27b217c49f8417143ad29eee8c",
+    "__resolveType": "site/apps/deco/algolia.ts",
+    "applicationId": "HNK8QQA9XP"
+  }

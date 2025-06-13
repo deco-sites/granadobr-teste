@@ -1,0 +1,65 @@
+{
+  "name": "Search Magento",
+  "path": "/granado/catalogsearch/result",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Pageview.tsx",
+      "pageType": "searchresults"
+    },
+    {
+      "__resolveType": "Header Global"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "Search Loader"
+      },
+      "layout": {
+        "format": "Show More",
+        "columns": {
+          "mobile": 2,
+          "desktop": 4
+        },
+        "variant": "aside"
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "cta": true,
+            "discount": false,
+            "allPrices": false,
+            "skuSelector": true,
+            "favoriteIcon": true,
+            "installments": true,
+            "productDescription": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Center"
+          },
+          "outOfStock": "Indisponível",
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image"
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      },
+      "startingPage": 0
+    },
+    {
+      "__resolveType": "Footer - 01"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+    "jsonLD": {
+      "__resolveType": "Search Loader"
+    }
+  }
+}

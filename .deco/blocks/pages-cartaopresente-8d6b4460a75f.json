@@ -1,0 +1,197 @@
+{
+  "name": "Cartao Presente",
+  "path": "/granado/cartaopresente",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "free shipping bar"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Institucional/GiftCard.tsx",
+      "home": "Início",
+      "cards": [
+        {
+          "text": "<p>É fácil: basta escolher a opção desejada, preencher os campos solicitados no cadastro e escolher a forma de pagamento.</p>",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/c6a2d2da-ff7f-4ccf-a1c9-d635a6d0b8a3",
+          "title": "Como comprar"
+        },
+        {
+          "text": "<p>Além de estampas exclusivas, que carregam o DNA da nossa marca, temos opções variadas de Cartão-presente. Verifique a disponibilidade de valores no site e nas lojas.</p>",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/6cf88dbe-b97a-4554-aa3c-cac83c22be40",
+          "title": "Escolha o valor"
+        },
+        {
+          "text": "<p>O cartão é exclusivo da Granado! Você pode adquirir seu cartão-presente Granado em qualquer uma de nossas lojas físicas ou pelo site <a class=\"text-green-800\" href=\"https://granado.com.br\" target=\"_blank\" rel=\"noopener noreferrer\" data-mce-href=\"https://granado.com.br\">granado.com.br</a>.</p>",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/660a13d2-c4e7-4e85-af29-3ff37a93927b",
+          "title": "Onde encontrar"
+        },
+        {
+          "text": "<p>Se for comprar online, insira o número do cartão e a senha ao fechar o pagamento. Se for na loja física, apresente as mesmas informações no caixa.</p>",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/9024b55a-9d4c-4b23-aee7-caa9f2fac74b",
+          "title": "Como utilizar"
+        }
+      ],
+      "images": {
+        "href": "https://granado.todocartoes.com.br/#/purchase",
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/788504df-41d7-4aab-83be-a72c3bd9022f",
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/6f88e75b-1804-407c-92b2-29a3dfca5832"
+      },
+      "status": {
+        "gif": "https://granado.todocartoes.com.br/#/purchase",
+        "cards": [
+          {
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/747b0d92-98cb-4989-bafd-3f45f481307f",
+            "title": "Consulte seu saldo",
+            "button": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/03d89000-4c25-4f8f-99be-83f1502f6195",
+            "description": "Veja o saldo do seu Cartão-presente Granado"
+          },
+          {
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/05dbdd66-c93f-415d-8cad-fe9608a9ce1c",
+            "title": "Confira o status do seu pedido",
+            "button": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/00f50492-bf1d-4eb1-9631-1cb00a7cfa8d",
+            "description": "Acompanhe sua compra!"
+          }
+        ],
+        "gifHref": "https://granado.todocartoes.com.br/#/purchase",
+        "textCard": {
+          "href": "https://granado.todocartoes.com.br/#/purchase",
+          "title": "Leve o Cartão-presente Granado  para a sua empresa!",
+          "button": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/bd73b6d3-1646-450a-9b03-88facc6de335",
+          "description": "Escolha os valores e quantidades  dos cartões que deseja adquirir"
+        },
+        "imageCards": [
+          {
+            "href": "https://cartaopresente.granado.com.br/",
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/747b0d92-98cb-4989-bafd-3f45f481307f",
+            "title": "Consulte seu saldo",
+            "button": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/03d89000-4c25-4f8f-99be-83f1502f6195",
+            "description": "Veja o saldo do seu Cartão-presente Granado"
+          },
+          {
+            "href": "https://cartaopresente.granado.com.br/",
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/05dbdd66-c93f-415d-8cad-fe9608a9ce1c",
+            "title": "Confira o status do seu pedido",
+            "button": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/00f50492-bf1d-4eb1-9631-1cb00a7cfa8d",
+            "description": "Acompanhe sua compra!"
+          }
+        ]
+      },
+      "benefits": {
+        "info": [
+          {
+            "text": "Válido para TODOS os produtos do site ou das lojas físicas;",
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/58e1a686-3167-4162-b0da-41b53724953c"
+          },
+          {
+            "text": "Pode ser usado em mais de uma compra (até zerar o saldo);",
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/42196cb8-ec64-4970-b0b8-d41cae79e269"
+          },
+          {
+            "text": "O presenteado escolhe a opção perfeita para ele!",
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/d568b638-d086-43c1-87b0-b4a3c3e0a82c"
+          }
+        ],
+        "title": "Vantagens do cartão-presente Granado"
+      },
+      "homeTitle": "Cartão-presente Granado",
+      "frequentlyAskedQuestions": {
+        "title": "Dúvidas Frequentes",
+        "faqItem": [
+          {
+            "title": "Os valores disponíveis variam do site para as lojas físicas?",
+            "content": "<p>Não! Tanto nas lojas físicas quanto no site, temos as seguintes opções: R$100, R$150, R$250, R$350 e uma versão livre que você pode escolher o valor (desde que seja acima de R$350 e no máximo R$5.000). É importante verificar a disponibilidade de Cartão-presente nas lojas físicas e no site. Para o Cartão-presente Corporativo, o valor mínimo é R$70.</p>"
+          },
+          {
+            "title": "Posso utilizar o Cartão-presente Granado fora do site e das lojas oficiais?",
+            "content": "<p>Não. Estabelecimentos parceiros (como farmácias e páginas da internet) não estão inclusos, bem como as lojas e o site da Phebo.</p>"
+          },
+          {
+            "title": "Comprei pelo site. Como vou receber o Cartão-presente?",
+            "content": "<p>Quando a transação for confirmada, você receberá um e-mail de conclusão de compra com todas as orientações. Lembre-se: você ou seu presenteado não receberão a versão física, somente a versão online, através de um link compartilhável.</p>"
+          },
+          {
+            "title": "Posso usar o Cartão-presente virtual na loja física?",
+            "content": "<p>Sim! Basta você apresentar o código que acompanha o Cartão-presente no caixa.</p>"
+          },
+          {
+            "title": "Preciso imprimir o cartão-presente Granado?",
+            "content": "<p>Não é necessário! Mas lembre-se de ter em mão no momento da compra o número do cartão e a senha para conseguir utilizá-lo.</p>"
+          },
+          {
+            "title": "Não recebi o e-mail com o Cartão-presente Granado. O que devo fazer?",
+            "content": "<p>O cartão não é enviado por e-mail. Você poderá acessar o cartão através do site de compra de cartões entrando em Meus Pedidos.</p>"
+          },
+          {
+            "title": "Devo utilizar todo o saldo do Cartão-presente de uma vez só ou posso utilizar em mais de uma compra?",
+            "content": "<p>O Cartão-presente, seja ele físico ou virtual, pode ser utilizado em quantas vezes forem necessárias até zerar o saldo, desde que esteja dentro do período de validade (seis meses a partir da compra).</p>"
+          },
+          {
+            "title": "Quem pode usar o Cartão-presente?",
+            "content": "<p>O cartão não é nominal. Logo, você pode presentear a pessoa que quiser (mas somente um nome por cartão)!</p>"
+          },
+          {
+            "title": "Por que preciso colocar meus dados no cadastro?",
+            "content": "<p>A Granado usa suas informações para realizar uma análise sobre a compra. Esse procedimento evita fraudes e garante a segurança de nossos clientes. Não se preocupe! Nós nunca usaremos seus dados sem seu consentimento.</p>"
+          },
+          {
+            "title": "Como posso consultar meu pedido?",
+            "content": "<p class=\"mb-4\">Para consultar seu pedido, siga os passos abaixo:</p><p class=\"mb-4\">Acessar o site <a class=\"text-green-800\" href=\"https://cartaopresente.granado.com.br\" data-mce-href=\"https://cartaopresente.granado.com.br\"> https://cartaopresente.granado.com.br </a></p><p>Clique em <a class=\"text-green-800\" href=\"https://loja.granado.com.br/granado/customer/account/login/\" data-mce-href=\"https://loja.granado.com.br/granado/customer/account/login/\">Login/Inscreva-se</a>; <br>Faça login e acesse <a class=\"text-green-800\" href=\"https://www.granado.com.br/granado/sales/order/history/\" data-mce-href=\"https://www.granado.com.br/granado/sales/order/history/\">Meus Pedidos</a>;</p>"
+          },
+          {
+            "title": "Apaguei o e-mail com o meu Cartão-presente Granado. Consigo recuperá-lo?",
+            "content": "<p>O cartão não é enviado por e-mail. O cartão pode ser acessado a qualquer momento pelo site de compra de cartões entrando em Meus Pedidos.</p>"
+          },
+          {
+            "title": "Comprei um Cartão-presente Granado, mas gostaria de solicitar o estorno. O que devo fazer?",
+            "content": "<p>Você precisa entrar em contato conosco para solicitar o estorno.</p>"
+          },
+          {
+            "title": "Paguei com cartão de crédito. Quanto tempo leva para o Cartão-presente ser liberado?",
+            "content": "<p>Para garantir a segurança de nossos clientes, todos os pedidos pagos com cartão de crédito passam por uma etapa de verificação feita pela nossa equipe. Este processo pode levar até 24h. Assim que a compra for aprovada, você receberá um aviso em seu e-mail e poderá conferir o cartão-presente na área “Minhas compras” do site.</p>"
+          },
+          {
+            "title": "Paguei com boleto. Quanto tempo leva para o Cartão-presente ser liberado?",
+            "content": "<p>Se você optou pelo pagamento através de boleto, seu pedido pode levar até dois dias úteis para ser processado. Assim que a compra for aprovada, você receberá um aviso em seu e-mail e poderá conferir o cartão-presente na área “Minhas compras” do site.</p>"
+          },
+          {
+            "title": "Paguei com PIX. Quanto tempo leva para o Cartão-presente ser liberado?",
+            "content": "<p>Ao optar pelo pagamento via PIX, a aprovação é instantânea!</p>"
+          },
+          {
+            "title": "Perdi meu Cartão-presente Granado. Posso solicitar a segunda via?",
+            "content": "<p>Não existe segunda via do Cartão-presente. Não nos responsabilizamos por perda ou roubo do produto! Se esse for o seu caso, você deverá entrar em contato com nosso atendimento para solicitar o bloqueio do crédito. É importante que faça a apresentação do número do cartão para que o bloqueio seja realizado.</p>"
+          },
+          {
+            "title": "Tenho outras dúvidas relacionadas ao meu Cartão-presente Granado. Quem pode me ajudar?",
+            "content": "<p>Entre em contato com a nossa Central de Relacionamento através do e-mail: <a href=\"mailto:sac@granadophebo.com.br\" class=\"text-green-800\" data-mce-href=\"mailto:sac@granadophebo.com.br\"> sac@granadophebo.com.br </a></p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "Footer - 04"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Header Global"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "description": "Encontre promoções exclusivas nas linhas Granado e Phebo. Tradição e Qualidade. Sabonetes, Talco, Esmalte, Perfumes, Cremes e mais.",
+    "title": "Cartão-presente Granado | Granado Pharmácias",
+    "canonical": "https://www.granado.com.br/granado/cartaopresente"
+  }
+}

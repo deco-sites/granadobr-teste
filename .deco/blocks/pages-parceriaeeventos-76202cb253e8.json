@@ -1,0 +1,44 @@
+{
+  "name": "Parceria e Eventos",
+  "path": "/granado/parceriaseeventos",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "free shipping bar"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Institucional/partnershipsAndEvents.tsx",
+      "home": "Início",
+      "pageTitle": "Parcerias e Eventos",
+      "pageSubtitle": "<div class=\"\"><p class=\"mb-4\">Ficamos muito contentes em saber do seu interesse em realizar um evento ou firmar uma parceria de marketing conosco!</p><p class=\"mb-4\">Para que sua proposta seja avaliada, pedimos que entre em contato através do e-mail abaixo:</p><p class=\"\"><a class=\"text-blue-500\" href=\"mailto:rp@granado.com.br\" data-mce-href=\"mailto:rp@granado.com.br\">rp@granado.com.br</a></p></div>"
+    },
+    {
+      "__resolveType": "Footer - 01"
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx",
+      "type": "website",
+      "title": "Parceria e Eventos | Granado Pharmácias",
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b90680ce-6fe6-49cb-9d0f-0f75c5b558aa",
+      "noIndexing": false,
+      "description": "Parceria e eventos ",
+      "canonical": "https://www.granado.com.br/granado/parceriaseeventos"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Header Global"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

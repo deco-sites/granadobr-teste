@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/retire-em-loja-e-entrega-expressa",
+    "to": "/granado/retire-em-loja-e-entrega-expressa",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

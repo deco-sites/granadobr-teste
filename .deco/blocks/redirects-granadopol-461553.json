@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/polvilho-antisseptico-fresh-100gr",
+    "to": "https://www.granado.com.br/granado/polvilho-antisseptico-fresh-100g",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

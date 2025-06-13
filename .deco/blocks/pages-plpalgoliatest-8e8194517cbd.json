@@ -1,0 +1,109 @@
+{
+  "name": "PLP Campanhas",
+  "path": "/{granado/}?campanhas/*",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "free shipping bar"
+    },
+    {
+      "__resolveType": "site/sections/SEO/SeoPLPV2Custom.tsx",
+      "jsonLD": {
+        "__resolveType": "PLP Magento loader"
+      },
+      "removeQueryParamsFromCanonical": true
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "PLP Magento loader"
+      },
+      "layout": {
+        "format": "Pagination",
+        "columns": {
+          "mobile": 2,
+          "desktop": 4
+        },
+        "variant": "aside"
+      },
+      "matcher": "/ProductGalleryInfo/*",
+      "contents": [
+        {
+          "text": "<p>teste</p>",
+          "title": "teste"
+        }
+      ],
+      "cardLayout": {
+        "hide": {
+          "cta": true,
+          "new": true,
+          "discount": false,
+          "allPrices": false,
+          "skuSelector": true,
+          "favoriteIcon": true,
+          "installments": true,
+          "productDescription": true
+        },
+        "basics": {
+          "contentAlignment": "Center"
+        },
+        "outOfStock": "Indisponível",
+        "onMouseOver": {
+          "showFavoriteIcon": true
+        }
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductGalleryInfo.tsx",
+      "productGalleryInfos": [
+        {
+          "contents": [
+            {
+              "title": "Semana Granado | Produtos com até 70% de desconto!",
+              "text": "<p>Prepare-se para uma semana incrível com muitos descontos na Granado! Dos dias 5 a 14 de julho, você encontrará, nesta seleção, mais de 245 produtos com&nbsp;<strong>descontos de 20, 30, 50 e 70%</strong>. Incrível, não é mesmo? Aproveite esta oportunidade! Confira as opções disponíveis e compre agora mesmo!</p><h2>Semana Granado — Produtos com até 70% de desconto!</h2><p>Não é novidade que a Semana Granado é uma das datas mais esperadas do ano. Você vai economizar e desfrutar de todos os benefícios que só os produtos da&nbsp;<a href=\"https://www.granado.com.br/granado\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado\">Granado&nbsp;</a>podem oferecer: fragrâncias únicas, cuidados especiais e ativos que valorizam o bem-estar.</p><p>Viu só? Nunca foi tão fácil adquirir itens de altíssima qualidade com preços tão especiais. A seguir, confira algumas das seleções que separamos especialmente para você:</p><h3>Sabonetes Granado: líquido, barra e refil</h3><p>As fragrâncias exclusivas e sofisticadas do&nbsp;<a href=\"https://www.granado.com.br/granado/sabonetes\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/sabonetes\">sabonete Granado</a>&nbsp;agora no conforto do seu lar. Com perfumes que variam entre&nbsp;lavanda, baunilha, calêndula, camomila, coco, chá branco, limão siciliano, alfazema provençal, hortelã, entre outros, você encontrará opções perfeitas para lavar as mãos e o rosto durante o dia a dia. Confira!</p><h3>Produtos para casa: aromatizadores, velas e kits</h3><p>Nada melhor do que ter a&nbsp;<a href=\"https://www.granado.com.br/granado/casa\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/casa\">casa&nbsp;</a>sempre perfumada ao receber visitas ou para se sentir confortável, não é mesmo? Na Semana Granado, oferecemos uma<strong> linha completa de aromatizadores, velas e kits para o seu lar</strong>. As fragrâncias&nbsp;Carioca, Bossa, Lichia e Pimenta, Folhas de Menta e muitas outras&nbsp;agora podem perfumar o seu lar!</p><h3>Perfumes Granado: florais, cítricos e mais</h3><p>A Semana Granado também oferecerá uma lista completa com os melhores&nbsp;<a href=\"https://www.granado.com.br/granado/perfumaria\" target=\"_blank\" data-mce-href=\"https://www.granado.com.br/granado/perfumaria\" data-mce-selected=\"inline-boundary\">perfumes</a>&nbsp;da nossa marca para a sua coleção. São frascos com alto poder de fixação e fragrâncias sofisticadas, atemporais e únicas que você precisa conhecer. Aproveite as promoções com até 70% de desconto!</p><h3>Linha Pet Granado: shampoo, condicionador e mais</h3><p>Muitas vezes, os&nbsp;<a href=\"https://www.granado.com.br/granado/pet\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/pet\">pets&nbsp;</a>são muito mais do que apenas companheiros, fazem parte da família. Por aqui, você vai encontrar shampoos, condicionadores, colônias e muitos outros produtos da Semana Granado com as melhores condições. São opções desenvolvidas especialmente para os pelos dos bichanos e não causam nenhum tipo de alergia ou incômodo. Adquira!</p><h3>Granado Bebê: sabonetes, colônias, cremes e mais</h3><p>A linha&nbsp;<a href=\"https://www.granado.com.br/granado/bebe\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/bebe\">Granado Bebê&nbsp;</a>é conhecida por seus cuidados especiais. Nossos produtos são&nbsp;desenvolvidos para a pele sensível das crianças.Além disso, as fragrâncias proporcionam aquele sentimento de frescor e conforto que todos amam. São sabonetes, colônias, refis, cremes hidratantes e muito mais. Confira a disponibilidade e aproveite as promoções desta seleção!</p><h3>Kits completos da Granado</h3><p>Os kits da Granado são perfeitos para quem busca <strong>presentear alguém querido ou se presentear</strong>, por que não? Na Semana Granado, você poderá desfrutar de ofertas únicas em&nbsp;<a href=\"https://www.granado.com.br/granado/kits-granado\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/kits-granado\">kits&nbsp;</a>de perfumaria, difusores de ambiente, corpo e banho, entre outros. Aproveite esta oportunidade!</p><p>Descubra as promoções que preparamos para você na Semana Granado. Estamos ansiosos pararecebê-lo e ajudá-lo a encontrar exatamente o que procura. Confira também nossa categoria de&nbsp;<a href=\"https://www.granado.com.br/granado/campanhas/novidades\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/campanhas/novidades\">novidades</a>. Boas compras!</p>"
+            }
+          ],
+          "matcher": "/granado/campanhas/semana-granado-23"
+        },
+        {
+          "contents": [
+            {
+              "text": "<p>A Semana do Consumidor Granado está chegando, e essa é a oportunidade perfeita para você garantir produtos de alta qualidade com condições especiais. De 10 a 14 de março, o site da Granado terá descontos progressivos, e nos dias 15 e 16 de março, uma promoção imperdível: leve 3, pague 2!</p><p>Se você está procurando por produtos tradicionais e de primeira linha em <a target=\"_blank\" href=\"https://www.granado.com.br/granado/perfumaria\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/perfumaria\">perfumaria</a> e autocuidado, essa é a melhor chance para comprar os seus favoritos com vantagens exclusivas.</p><h2>Descontos progressivos de 10 a 14/03 no site da Granado</h2><p>Entre os dias 10 e 14 de março, a Semana do Consumidor Granado traz uma mecânica progressiva de descontos para quem deseja economizar ainda mais. Quanto mais produtos você comprar, melhores serão os descontos aplicados. Essa é uma excelente oportunidade para adquirir aqueles itens que você sempre quis de perfumaria, cuidados com a pele e higiene pessoal.</p><p>Seja um sabonete cremoso, um hidratante corporal ou uma colônia suave, você pode aproveitar para abastecer seu nécessaire e garantir aquele cheirinho inconfundível da Granado por muito mais tempo. Não deixe para depois:<strong> aproveite essa condição especial para levar para casa seus produtos favoritos</strong> por um valor ainda mais acessível!</p><h2>Leve 3, pague 2 nos dias 15 e 16/03 na Granado</h2><p>Se você já ama os produtos da Granado, vai adorar as ofertas dos dias 15 e 16 de março: compre 3 produtos e pague apenas 2! Isso mesmo, você escolhe três itens e o de menor valor sai de graça.</p><p>Essa promoção é perfeita para testar novas fragrâncias, garantir aquele presente especial ou simplesmente renovar seus <a target=\"_blank\" href=\"https://www.granado.com.br/granado/kits-granado\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/kits-granado\">kits da Granado</a> sem gastar mais por isso. Deixe sua pele bem cuidada, seu banho mais relaxante e sua rotina ainda mais perfumada com essa oferta imperdível!</p><h2>Por que aproveitar a Semana do Consumidor Granado?</h2><p>A Semana do Consumidor <strong>é a oportunidade perfeita para garantir mais bem-estar no seu dia a dia</strong>, economizando nos produtos que você já ama. Com as ofertas especiais, você pode:</p><ul><li><p>Comprar mais e pagar menos com os descontos progressivos;</p></li><li><p>Levar 3 produtos e pagar apenas 2 nos dias 15 e 16/03;</p></li><li><p>Garantir seus produtos preferidos da Granado sem pesar no bolso;</p></li><li><p>Aproveitar a qualidade e a tradição de uma marca que você confia.</p></li></ul><p>Seja para você ou para presentear, os produtos da Granado fazem toda a diferença no dia a dia, proporcionando momentos de autocuidado e bem-estar.</p><h2>Como aproveitar as promoções da Semana do Consumidor?</h2><p>Para garantir que você aproveite ao máximo as promoções da Semana do Consumidor Granado, vale a pena planejar suas compras com antecedência. Faça uma lista dos seus produtos favoritos, confira quais itens estão acabando em casa e aproveite para experimentar também novas fragrâncias e fórmulas exclusivas feitas pelos nossos especialistas.</p><p>Acesse o site da Granado entre os dias 10 e 16 de março e confira todas as ofertas especiais da Semana do Consumidor Granado em <strong>perfumaria, </strong><a target=\"_blank\" href=\"https://www.granado.com.br/granado/sabonetes\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/sabonetes\"><strong>sabonetes</strong></a><strong>, itens para a casa, kits e novidades</strong>. Não demore! As promoções são por tempo limitado e os estoques podem acabar rápido.</p><p>Cuide de você com quem entende de bem-estar. Aproveite a Semana do Consumidor Granado!</p>"
+            }
+          ],
+          "matcher": "/granado/campanhas/semana-do-consumidor"
+        },
+        {
+          "contents": [
+            {
+              "text": "<p>Os melhores cheiros estão na nossa seção de colônias Phebo, onde você encontra fragrâncias exclusivas e de alta qualidade para se destacar em qualquer ocasião. Por isso, se você está em busca de um cheiro doce e suave ou prefere notas mais cítricas e amadeiradas, saiba que aqui temos opções para todos os gostos e estilos.</p><p>A Granado é uma marca renomada, que se dedica a oferecer produtos de qualidade, com durabilidade e projeção, garantindo que você tenha uma experiência única e marcante. Nossas colônias Phebo são cuidadosamente elaboradas para proporcionar a você uma fragrância que dura o dia todo.</p><p>Com uma variada seleção de cheiros, há sempre uma opção perfeita esperando por você. Navegue agora em nosso site e encontre a fragrância que se tornará a sua nova favorita!</p><h2>Colônias florais e amadeiradas: tudo em um único lugar</h2><p>Encontre opções variadas de produtos para deixar você com um cheiro marcante, único e original aqui na Granado. Nossas colônias Phebo estão disponíveis nas segntes opções: <strong>Água de Peônia, Folhas de Figo, Água de Lavanda, Limão Siciliano e mais.</strong></p><p>Além disso, nossas embalagens não apenas são feitas com materiais que protegem e preservam a qualidade dos produtos, mas também carregam uma identidade única, que combina tradição e sofisticação. Com design elegante e moderno, elas se destacam pelas cores vibrantes e alegres, como o azul, vermelho, laranja e verde, trazendo uma sensação de frescor.</p><p>Cada detalhe foi cuidadosamente pensado para refletir a essência das colônias, deixando-as ainda mais atrativas para quem busca um toque de autenticidade em seu dia a dia.</p><h2>Como descobrir qual é o melhor cheiro de colônias?</h2><p>O primeiro passo é identificar qual é o melhor cheiro; é <strong>pensar sobre qual você mais se identifica, seja floral, oriental ou amadeirado.</strong> A partir disso, verifique quais são as notas de topo, corpo e fundo. Esta união será responsável por harmonizar o cheiro escolhido ao seu corpo durante todo o dia.</p><p>Antes de realizar qualquer compra, é fundamental verificar a composição da colônia. Veja se ela tem a presença de ativos de <a target=\"_blank\" href=\"https://www.granado.com.br/granado/campanhas/hidratacao\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/campanhas/hidratacao\">produtos de hidratação</a> para não ressecar a sua pele, garantindo que seus ingredientes sejam compatíveis com o seu corpo e evitando possíveis alergias ou desconfortos ao usá-la.</p><p>Cada fragrância contém uma mistura de notas que podem ser mais suaves ou intensas; por isso, conhecer as famílias olfativas é essencial para encontrar o seu cheiro ideal. Existem diversas famílias olfativas que atendem aos mais variados gostos e preferências.</p><h2>Qual é a diferença entre colônia e perfume?</h2><p>Uma das diferenças é a concentração da essência de determinado cheiro. Os <a target=\"_blank\" href=\"https://www.granado.com.br/granado/perfumaria/perfumes\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/perfumaria/perfumes\">perfumes</a> têm uma concentração maior do que as colônias; enquanto o primeiro tem até 30% de fragrância, o segundo possui em torno de 5%. Além disso, as colônias têm um valor mais baixo que os perfumes, sendo uma opção mais acessível!</p><p>As colônias são mais suaves e, por isso, são indicadas para o dia a dia. Sem dúvida, elas serão <strong>sua melhor amiga para a rotina de trabalho, passeios e eventos.</strong> Enquanto isso, o perfume pode ser a escolha ideal para a noite, em confraternizações e festas.</p><p>Agora que você já sabe como as colônias Phebo são de extrema qualidade e possuem um ótimo custo-benefício. Aproveite para explorar nossas opções de fragrâncias para adquirir a sua ainda hoje. Para aqueles que desejam uma experiência completa, confira também nossos <a target=\"_blank\" href=\"https://www.granado.com.br/granado/campanhas/kits\" rel=\"noopener\" data-mce-href=\"https://www.granado.com.br/granado/campanhas/kits\">kits Phebo</a>; temos diversas opções com sprays de ambiente e sabonetes!</p>"
+            }
+          ],
+          "matcher": "/granado/campanhas/colonias-phebo"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer - 01"
+    },
+    {
+      "__resolveType": "WhatsApp Global"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Header Global"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

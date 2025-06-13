@@ -1,0 +1,23 @@
+{
+  "urlKey": {
+    "pathname": "/granado/",
+    "__resolveType": "website/functions/requestToPathname.ts"
+  },
+  "pageSize": 40,
+  "customFields": {
+    "active": true,
+    "overrideList": [
+      "tag__phebo"
+    ]
+  },
+  "__resolveType": "magento/loaders/product/listingPage.ts",
+  "categoryProps": {
+    "filters": [],
+    "sortOptions": {
+      "order": "ASC",
+      "sortBy": {
+        "value": "position"
+      }
+    }
+  }
+}

@@ -1,0 +1,919 @@
+{
+  "logo": {
+    "whiteBackground": {
+      "alt": "Granado",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/bcb6a6ff-5281-4266-860e-fe85c84cd933"
+    },
+    "TransparentBackground": {
+      "alt": "Granado",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/c9fde472-e220-401b-b33c-b154e1a430b5"
+    }
+  },
+  "alerts": {
+    "alerts": [
+      {
+        "message": "Frete Grátis em compras a partir de R$250,00!"
+      },
+      {
+        "message": "Parcelamento em até 10 vezes"
+      },
+      {
+        "message": "Retire em loja: GRÁTIS + 5%OFF"
+      }
+    ],
+    "interval": 5
+  },
+  "account": {
+    "myAccont": "Minha Conta",
+    "myOrders": "Meus Pedidos",
+    "loginItem": "Entrar",
+    "myAccount": "Minha Conta",
+    "isLoggedIn": false,
+    "logoutItem": "Sair",
+    "createAccont": "Criar Conta",
+    "createAccount": "Criar Conta"
+  },
+  "alerts2": {
+    "items": [
+      {
+        "label": "Frete Grátis em compras a partir de R$200,00!"
+      },
+      {
+        "label": "Parcelamento em até 10 vezes"
+      },
+      {
+        "href": "https://www.granado.com.br/granado/regrasepromocoes",
+        "label": "Retire na Loja: <b>Grátis + 5%OFF</b>",
+        "htmlFormat": true,
+        "openInNewTab": true
+      }
+    ],
+    "interval": 7
+  },
+  "buttons": {
+    "hideCartButton": false,
+    "hideSearchButton": false,
+    "hideAccountButton": false,
+    "hideWishlistButton": false
+  },
+  "queueIt": true,
+  "cartType": "Cart",
+  "navItems": [
+    {
+      "url": "/granado/perfumaria/perfumes-granado",
+      "name": "Perfumaria",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/304059f2-587d-4fe4-9c9c-4b37049ddc25",
+          "image": [],
+          "video": []
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/perfumaria/colonia",
+          "name": "Colônias",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/796d2b2d-34c9-48a6-aabd-0d696196cbe8",
+              "alternateName": "Categoria de produtos Colonia"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/perfumaria/colonia/bebe",
+          "name": "Colônia Bebê",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/580ccfca-f23c-4f94-8e37-761e74bac682",
+              "image": [],
+              "video": [],
+              "alternateName": "Categoria de produtos Colonia Bebe"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/perfumaria/eaudetoilette",
+          "name": "Eau de Toilette",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/a6bf1e66-5767-422c-8ec5-bc2cacb50014",
+              "image": [],
+              "video": [],
+              "alternateName": "Categoria de produtos Eau de Toilette"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/perfumaria/perfumes-granado",
+          "name": "Perfumes",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/2a934b1d-22f4-4370-ab4c-b8855ca03010",
+              "image": [],
+              "video": [],
+              "alternateName": "Categoria de produtos Perfume"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/perfumaria/infantil",
+          "name": "Infantil",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/dac1623a-4c18-41ca-bbc3-00aebd40de54",
+              "image": [],
+              "video": [],
+              "alternateName": "Categoria de produtos Infantil"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/perfumaria/kits",
+          "name": "Kits",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/c5196c98-70c3-4c19-9ff8-3e7c2a63d41f",
+              "image": [],
+              "video": [],
+              "alternateName": "Categoria de produtos Kit"
+            }
+          ],
+          "children": []
+        }
+      ],
+      "headerConfig": {
+        "headerOrder": 1,
+        "displayInHeader": true
+      },
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/sabonetes",
+      "name": "Sabonetes",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/aaf6b573-3411-4e33-b9e4-6432a87ef6b1"
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/sabonetes/saboneteliquido",
+          "name": "Líquido",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/c2c3cdc8-214d-4600-9302-cca7a53ceeb9",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/sabonetes/sabonete-barra",
+          "name": "Barra",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/049f7419-0657-4970-8cc0-f597baad98dd"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/sabonetes/facial",
+          "name": "Facial",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/dd35fd5d-9814-4bfc-854e-6495a8f60ead",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/sabonetes/antisseptico",
+          "name": "Antisséptico",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/65fc5ce7-c10a-4d5b-983b-9e4eaf36fd5e",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/sabonetes/glicerina",
+          "name": "Glicerina",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/9df13e8a-66a1-4244-a197-efe1aea1ff81"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/sabonetes/refil",
+          "name": "Refil",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/6100c7c7-282b-41f4-aaf9-a28c450bf34e"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/perfumaria/kits",
+          "name": "Kits",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/a66c2713-0676-48f9-9ae5-d0c00776e097"
+            }
+          ],
+          "children": []
+        }
+      ],
+      "headerConfig": {
+        "headerOrder": 2,
+        "displayInHeader": true
+      },
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/casa",
+      "name": "Casa",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/66ec8a08-0088-4ce6-b9af-89c409c55ebb",
+          "image": [],
+          "video": []
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/casa/aromatizadores-de-ambiente",
+          "name": "Aromatizador de Ambientes",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/dfdf5617-ae5d-41bf-a32f-fa61c43d83a4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/casa/vela",
+          "name": "Velas",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/9e155a79-398d-42dd-ac4d-969da12db0e6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/casa/kits",
+          "name": "Kits",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/2d6e66a3-53e0-4a0a-8e0d-bdf36f4eacac",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        }
+      ],
+      "headerConfig": {
+        "headerOrder": 3,
+        "displayInHeader": true
+      },
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/corpo-e-banho",
+      "name": "Corpo e Banho",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/ab5841a5-5847-457e-b504-78c6a82b3a40"
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/corpo-e-banho/antisseptico",
+          "name": "Antisséptico",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/00d98d07-c3b0-4361-a82b-953b2f634ef9",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/corpo-e-banho/cabelos",
+          "name": "Cabelos",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/5972f0ce-bb6d-408e-8c78-18668582e65f",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/corpo-e-banho/esfoliacao",
+          "name": "Esfoliação",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/4b9e03c1-9e2c-44c2-9b23-43ecf603c8ed",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/corpo-e-banho/hidratacao",
+          "name": "Hidratação",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/6ec88f99-36ff-4ac3-b5f4-0fa812476e23",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/corpo-e-banho/maoseunhas",
+          "name": "Mãos e Unhas",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/6367e0f0-7ca6-4671-983b-541b43250260",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/corpo-e-banho/pesepernas",
+          "name": "Pés e Pernas",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/24adbaeb-eac2-44ec-8a61-584a7aca5dd9",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/corpo-e-banho/saisdebanho",
+          "name": "Sais de Banho",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/11f7b413-999b-425d-954f-638e1604bbe7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/corpo-e-banho/miniatura",
+          "name": "Miniatura",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/3633aee3-6ff2-439e-a930-a3fc2b5871c4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/corpo-e-banho/kits",
+          "name": "Kits",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/8d45bc7c-dcfd-4b7b-bfda-5c19b2ec7443"
+            }
+          ],
+          "children": []
+        }
+      ],
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/bebe",
+      "name": "Bebê",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/8293daff-dda7-42ee-b23e-04f696156dcf"
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/bebe/banho",
+          "name": " Banho",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/f5bd8610-488a-4a17-a446-7211a6a88d72"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/bebe/sabonetes",
+          "name": "Sabonetes",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/3003c0fe-5bef-403f-b642-ac344b1a608a",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/bebe/cabelos",
+          "name": "Cabelos",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/734b3adf-27d2-478d-93d4-af9df4791124",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/bebe/cuidadosdiarios",
+          "name": "Cuidados Diários",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/eaf2cf57-16cd-4d5e-9dcc-b05ef5003acb",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/bebe/hidratacao",
+          "name": "Hidratação",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/a538b126-ac54-411a-85d4-a739171a3c04",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/bebe/perfumaria",
+          "name": "Perfumaria",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/e2b4c1b4-016e-41cc-a7ca-08e77778cabb",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "image": [
+            {
+              "url": "https://data.decoassets.com/granadobr/19164f59-7013-416e-91f6-3204c26035ac/palette.png"
+            }
+          ],
+          "children": [],
+          "name": "Personalização",
+          "url": "/personalizacao"
+        }
+      ],
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/homem",
+      "name": "Homem",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/84652660-b01f-463b-a6e0-6eeeaa9ac357"
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/homem/barbear",
+          "name": "Barbear",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/30295425-f4b6-4b86-8a3d-7fbd51c198af"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/homem/cuidados",
+          "name": "Cuidados",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/d2093c97-d66f-4d25-a53e-0380426ac0cf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/homem/posbarbear",
+          "name": "Pós Barbear",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/63c139cc-9aeb-4b8a-a361-5fe8ffca93df"
+            }
+          ],
+          "children": []
+        }
+      ],
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/pet",
+      "name": "Pet",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/6ec366eb-eff8-4bd0-8f68-8fc3075a02ad"
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/pet/banho",
+          "name": "Banho",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/0537df59-8ac9-4bab-86e9-a1f299318c19"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/pet/colonia",
+          "name": "Colônia",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/3e3be6ac-d1b9-4cba-98cc-0a6ba57be3c3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/pet/tratamento",
+          "name": "Tratamento",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/c5cedd13-d32b-4f4d-9b35-8419c8e44272"
+            }
+          ],
+          "children": []
+        }
+      ],
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/linhas",
+      "name": "Linhas",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/44400d87-d218-416b-b439-b58f1a7834f2",
+          "image": [],
+          "video": []
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/campanhas/linha-bebe",
+          "name": "Bebê",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/2aeb7223-60d4-485e-bfe6-f26949016bb9"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/sabonetes/glicerina",
+          "name": "Glicerina",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/1cf567ee-1a2a-4ca4-8525-87cb9c15b824"
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/linhas/terrapeutics",
+          "name": "Terrapeutics",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/f5d8fd65-8005-4bfc-a285-774adf6878ed",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/linhas/vintage",
+          "name": "Vintage",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/491d7029-e718-4795-a48f-505a7ebadbdb",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/linhas/pet",
+          "name": "Pet",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/7025e689-7c60-4267-8407-ed6a6e474eec",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/linhas/pink",
+          "name": "Pink",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/2ef5d2a9-bad1-44fa-b944-4e8e3c132863",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        }
+      ],
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      },
+      "identifier": "linhas"
+    },
+    {
+      "url": "/granado/linhas-phebo",
+      "name": "Phebo",
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/d297cd7d-326a-4885-a291-2996655c87c2",
+          "image": [],
+          "video": []
+        }
+      ],
+      "children": [
+        {
+          "url": "/granado/campanhas/biblioteca-olfativa",
+          "name": "Perfumes",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/428ec1aa-8110-40b1-af3c-7b871b262379",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/colonias-phebo",
+          "name": "Colônias",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/3d2383b3-3a40-447a-b105-e463c5dce249",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/sabonete-liquido-phebo",
+          "name": "Sabonete Líquido",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b6a23e4c-9390-42e7-a812-6968d396c003",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/sabonete-barra-phebo",
+          "name": "Sabonete Barra",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/f0d10011-f0d7-42b3-bf9a-d41398d66ce7",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/refil-phebo",
+          "name": "Refil",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/64e1589d-26dd-46b2-a9b5-5ed2ec32b542",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/difusor-phebo",
+          "name": "Difusor de Ambientes",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/ad286e9a-d599-4251-8c66-b3ba57ec2c9a",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/velas-phebo",
+          "name": "Velas",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/e45084ac-fa0d-4d28-9e9c-48e6c5fc77e4",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/spray-de-ambientes-phebo",
+          "name": "Spray de Ambientes",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/2a5d50b0-6bb5-4c96-895b-f502b25bea11",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/hidratacao",
+          "name": "Hidratação",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/28fcfa09-663e-4da8-bc92-3f20ee6f2d0e",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "url": "/granado/campanhas/kits",
+          "name": "Kits",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/e3d7183a-1cb9-44a0-b27e-a205defe417d",
+              "image": [],
+              "video": []
+            }
+          ],
+          "children": []
+        }
+      ],
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/kits-granado",
+      "name": "Kits",
+      "image": [],
+      "children": [],
+      "headerConfig": {
+        "headerOrder": 5,
+        "displayInHeader": true
+      },
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/cartaopresente",
+      "name": "Cartão Presente",
+      "image": [],
+      "children": [],
+      "headerConfig": {
+        "headerOrder": 5,
+        "displayInHeader": false
+      },
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    },
+    {
+      "url": "/granado/campanhas/novidades",
+      "name": "Novidades",
+      "image": [],
+      "children": [],
+      "headerConfig": {
+        "headerOrder": 5,
+        "displayInHeader": true
+      },
+      "megamenuConfig": {
+        "displayInMegamenu": true
+      }
+    }
+  ],
+  "searchbar": {
+    "logo": {
+      "alt": "granado logo",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/bcb6a6ff-5281-4266-860e-fe85c84cd933"
+    },
+    "name": "q",
+    "action": "/granado/catalogsearch/result/",
+    "loader": {
+      "data": {
+        "count": {
+          "pages": 4,
+          "products": 5,
+          "categories": 4
+        },
+        "products": [],
+        "searches": [],
+        "indexName": {
+          "__resolveType": "Configuração indexNames Prod"
+        },
+        "__resolveType": "site/loaders/algolia/products/suggestions.ts"
+      },
+      "__resolveType": "resolved"
+    },
+    "cardLayout": {
+      "hide": {
+        "cta": true,
+        "discount": false,
+        "allPrices": true,
+        "productLink": false,
+        "skuSelector": true,
+        "installments": true,
+        "productDescription": true
+      },
+      "basics": {
+        "oldPriceSize": "Small",
+        "contentAlignment": "Center"
+      },
+      "outOfStock": "Indisponível",
+      "onMouseOver": {
+        "card": "None",
+        "image": "Change image"
+      },
+      "elementsPositions": {
+        "skuSelector": "Top",
+        "favoriteIcon": "Top right"
+      }
+    },
+    "placeholder": "O que você está procurando?",
+    "dontUpdateCartAfter": {
+      "addItem": false
+    }
+  },
+  "logoPosition": "left",
+  "__resolveType": "site/sections/Header/HeaderV2.tsx",
+  "freeShippingTarget": 250,
+  "hideSwitcher": false
+}

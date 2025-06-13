@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/kit-difusor-de-ambiente-sab-liq-agua-de-lavanda",
+    "to": "https://www.granado.com.br/granado/kits-granado",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

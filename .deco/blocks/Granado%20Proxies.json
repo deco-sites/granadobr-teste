@@ -1,0 +1,97 @@
+{
+  "prefix": "/granado",
+  "__resolveType": "magento/loaders/proxy.ts",
+  "includeSiteMap": [],
+  "extraPathsToProxy": [
+    "/lojas",
+    "/termosgerais",
+    "/privacy-policy-cookie-restriction-mode",
+    "/codigodeeticaeconduta",
+    "/politica-de-entrega-e-devolucao",
+    "/banner/*",
+    "/rest/*",
+    "/PharolGranado/*",
+    "/PharolGranado",
+    "/checkout/cart/add/*",
+    "/enable-cookies",
+    "/private-sales",
+    "/reward-points",
+    "/fragancia",
+    "/ajuda-e-contato",
+    "/duvidas-frequentes",
+    "/b2b-revenda",
+    "/terms-and-conditions-usa",
+    "/regras-e-promocoes-atacado",
+    "/qualperfumecombinacomvoce",
+    "/relatorio-igualdade-salarial",
+    "/quiz-perfumaria",
+    "/influenciadores-granado",
+    "/regulamento-box-granado",
+    "/box-granado-assinatura",
+    "/relatorio-igualdade-salarial-2-semestre",
+    "/termo-de-uso-rotulos-personalizados",
+    "/black-friday-granado",
+    "/bula-polvilho-fresh",
+    "/bula-polvilho-sport",
+    "/bula-polvilho-tradicional",
+    "/bula-polvilho-pink",
+    "/regulamentos_campanha_pink",
+    "/amsociallogin/*",
+    "/promolinkpro/*"
+  ],
+  "pathsWithoutPrefix": [
+    "/promolinkpro/*",
+    "/PharolGranado",
+    "/PharolGranado/*",
+    "/personalizacao",
+    "/box-granado-assinatura",
+    "/datas-especiais",
+    "/quiz-perfumaria",
+    "/black-friday-granado",
+    "/enable-cookies",
+    "/private-sales",
+    "/reward-points",
+    "/fragancia",
+    "/ajuda-e-contato",
+    "/duvidas-frequentes",
+    "/b2b-revenda",
+    "/terms-and-conditions-usa",
+    "/regras-e-promocoes-atacado",
+    "/qualperfumecombinacomvoce",
+    "/relatorio-igualdade-salarial",
+    "/influenciadores-granado",
+    "/regulamento-box-granado",
+    "/relatorio-igualdade-salarial-2-semestre",
+    "/termo-de-uso-rotulos-personalizados",
+    "/bula-polvilho-fresh",
+    "/bula-polvilho-sport",
+    "/bula-polvilho-tradicional",
+    "/bula-polvilho-pink",
+    "/regulamentos_campanha_pink"
+  ],
+  "redirectRoutesProps": {
+    "subdomain": "loja",
+    "enableRedirectRoutes": true,
+    "extraPathsToRedirect": [
+      "/granado/recurring/subscription/*",
+      "/loginascustomer/*",
+      "/loginascustomer",
+      "/granado/loginascustomer/*",
+      "/granado/loginascustomer",
+      "/granado/shipping/*",
+      "/granado/granado_invoicelinks/*"
+    ]
+  },
+  "excludePathsFromDecoSiteMap": [],
+  "replaces": [],
+  "includeScriptsToHead": {
+    "includes": [
+      {
+        "src": "<script src=\"/personalization_proxy_cookie.js\" ></script>"
+      }
+    ]
+  },
+  "includeScriptsToBody": {
+    "includes": []
+  }
+}

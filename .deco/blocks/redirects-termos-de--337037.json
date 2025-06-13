@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/termos-de-uso",
+    "to": "/granado/termos-de-uso",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

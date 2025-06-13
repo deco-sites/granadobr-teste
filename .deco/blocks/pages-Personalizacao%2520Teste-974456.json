@@ -1,0 +1,20 @@
+{
+  "name": "Personalizacao Teste",
+  "path": "/personalizacao-teste",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header Global"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Personalizacao.tsx"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "canonical": "https://www.granado.com.br/personalizacao-teste"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,13 @@
+{
+    "theme_color": "#025a44",
+    "background_color": "#025a44",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "id": "/?source=pwa",
+    "name": "Granado",
+    "short_name": "Granado",
+    "orientation": "portrait",
+    "icons": [],
+    "description": "Encontre promoções exclusivas nas linhas Granado e Phebo. Tradição e Qualidade."
+}

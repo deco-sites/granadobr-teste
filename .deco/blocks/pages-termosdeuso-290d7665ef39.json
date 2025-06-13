@@ -1,0 +1,45 @@
+{
+  "name": "Termos de Uso",
+  "path": "/granado/termos-de-uso",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "free shipping bar"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/Intro.tsx",
+      "text": "Termos de uso",
+      "alignment": "Center"
+    },
+    {
+      "__resolveType": "site/sections/Content/RichText.tsx",
+      "text": "<p>Bem-vindo a Loja Virtual Granado | Phebo! Este site tem o objetivo de expandir e melhorar a qualidade de nossos serviços. Consulte abaixo as regras básicas de uso.</p><p><br>&nbsp;<br><span style=\"color: rgb(2, 90, 68);\" data-mce-style=\"color: rgb(2, 90, 68);\"><strong>1. Polí­tica</strong></span><br>Ocasionalmente as informações contidas neste site podem conter erros tipográficos, incorreções ou omissões relacionados à&nbsp; descrição dos produtos, preços e disponibilidade. A Granado | Phebo reserva o direito de corrigir erros e omissões, modificando e atualizando as informações a qualquer hora sem comunicação prévia. Esta norma nunca excederá os limites éticos da empresa.</p><p><br>&nbsp;<br><span style=\"color: rgb(2, 90, 68);\" data-mce-style=\"color: rgb(2, 90, 68);\"><strong>2. Informações de Produto</strong></span><br>Nem todos os produtos apresentados nos catálogos virtuais e em nossas lojas estão disponíveis para compra online, e alguns podem não estar disponí­veis nas lojas fí­sicas.<br>Alguns itens divulgados nos catálogos e na loja virtual são meramente ilustrativos e não estão disponíveis para a venda.<br>As informações sobre preços e disponibilidade de produtos estão sujeitas a alterações.<br>Os produtos Granado | Phebo estão disponíveis em nossas lojas próprias, representantes, multimarcas e em nossas Lojas Virtuais, localizadas no Brasil e exterior. Os preços referentes aos produtos são cotados em Real ou Euro e válidos para o Brasil e os paí­ses europeus onde a empresa tenha participação.<br>Os preços da Loja Virtual podem ser diferentes dos praticados em nossas lojas próprias, representantes e multimarcas.</p><p><br>&nbsp;<br><span style=\"color: rgb(2, 90, 68);\" data-mce-style=\"color: rgb(2, 90, 68);\"><strong>3. Links para Outros Websites</strong></span><br>Este site pode conter links para outros websites. A Granado | Phebo não se responsabiliza pelas informações cedidas por outros sites ou por qualquer dano que porventura seja resultado deste. O objetivo dessa operação é de caráter exclusivamente informativo.</p><p><br>&nbsp;<br><span style=\"color: rgb(2, 90, 68);\" data-mce-style=\"color: rgb(2, 90, 68);\"><strong>4. Gerais</strong></span><br>A Granado | Phebo não se responsabiliza por qualquer tipo de dano causado em seu computador, seja por ataque de ví­rus ou defeitos apresentados durante o uso.<br>A Granado | Phebo e seus fornecedores não garantem que a informação acessá­vel através de www.granadophebo.com.br seja exata, completa ou atualizada.</p>"
+    },
+    {
+      "__resolveType": "Footer - 04"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Header Global"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "title": "Termos de Uso | Granado Pharmácias",
+    "description": "Termos de Uso loja Granado",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b90680ce-6fe6-49cb-9d0f-0f75c5b558aa",
+    "canonical": "https://www.granado.com.br/granado/termos-de-uso"
+  }
+}

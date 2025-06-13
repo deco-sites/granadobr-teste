@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/lojas",
+    "to": "/granado/lojas",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

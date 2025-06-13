@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/parceriaseeventos",
+    "to": "/granado/parceriaseeventos",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

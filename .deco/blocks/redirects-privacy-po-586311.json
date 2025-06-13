@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/privacy-policy-cookie-restriction-mode",
+    "to": "/granado/privacy-policy-cookie-restriction-mode",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/robots.txt",
+    "to": "/robots.txt",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

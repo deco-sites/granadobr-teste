@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Allow changing font family via CMS */
+  html {
+    font-family: var(--font-family);
+  }
+
+  mark {
+    @apply bg-accent text-accent-content;
+  }
+
+  /** Remove default styles from input[type=number] */
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Disable scroll once drawer/modal is openned */
+  body:has(.drawer-toggle:checked),
+  body:has(.modal-toggle:checked) {
+    overflow: hidden !important;
+    height: 100vh;
+  }
+
+  h2 {
+    @apply text-xl font-bold my-3;
+  }
+  h3 {
+    @apply text-lg font-bold my-3;
+  }
+  hr {
+    @apply my-6;
+  }
+}
+
+@layer components {
+  .features {
+    @apply flex items-center justify-center gap-6 flex-wrap;
+    @apply relative max-w-[1280px] mx-auto;
+  }
+
+  .feature-card {
+    @apply w-[380px] max-w-[380px] lg:h-[380px] bg-[#f4f4f4] rounded-3xl;
+    @apply border-l border-transparent duration-200 whitespace-pre-line
+      text-center;
+    @apply flex flex-col items-center justify-start gap-8 py-10 px-8 lg:px-12;
+  }
+}
+
+.group:disabled .group-disabled\:animate-progress {
+  animation: progress-frame ease normal;
+}
+
+@keyframes progress-frame {
+  0% {
+    --dot-progress: 0%;
+  }
+
+  to {
+    --dot-progress: 100%;
+  }
+}
+
+@layer utilities {
+  .scrollbar-webkit {
+    &::-webkit-scrollbar {
+      @apply h-2 w-3;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      @apply rounded-lg bg-gray-600 border-4 border-solid border-white;
+    }
+
+    &::-webkit-scrollbar-track {
+      @apply rounded-lg bg-white;
+    }
+  }
+}

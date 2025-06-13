@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/politica-de-entrega-e-devolucao",
+    "to": "/granado/politica-de-entrega-e-devolucao",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

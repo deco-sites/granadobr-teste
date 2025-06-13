@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/creme-para-maos-alfazema-proven-50ml",
+    "to": "https://www.granado.com.br/granado/corpo-e-banho/maoseunhas",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

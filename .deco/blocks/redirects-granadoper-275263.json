@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/perfume-esplendor-granado75ml",
+    "to": "https://www.granado.com.br/granado/perfume-esplendor-granado-75ml",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

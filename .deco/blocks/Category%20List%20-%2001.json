@@ -1,0 +1,59 @@
+{
+  "list": [
+    {
+      "href": "/masculino",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/8d1c5b15-0023-4a13-9fb4-6d959f1b8f30",
+      "label": "Vintage",
+      "buttonText": "olha o teste",
+      "description": "Produtos clássicos da marca com fragrâncias e rótulos originais resgatados do Acervo Granado"
+    },
+    {
+      "href": "/feminino",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/4eda447a-f542-41ba-a2e3-e0e6e2a2f9a7",
+      "label": "Bags",
+      "description": "Bags"
+    },
+    {
+      "href": "/",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/3b2034fb-9bde-4dda-b17f-04d1e3f43605",
+      "label": "Shoes",
+      "description": "New deals"
+    },
+    {
+      "href": "/",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/be431ec6-ab38-4728-8fa1-df39e164a6a2",
+      "label": "Jackets",
+      "description": "New colors"
+    },
+    {
+      "href": "/",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b0c22e35-8c27-48b0-8b6e-2f4365a4e7b1",
+      "label": "Jeans",
+      "description": "Amazing"
+    },
+    {
+      "href": "/",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/641cfe79-2f5d-4618-825b-3ece885c34e3",
+      "label": "Shorts",
+      "description": "Summer"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/ec8f9c0a-6f1a-4b9e-b95f-5d8ee16f61ee",
+      "label": "Barbearia",
+      "description": "Ricos em extratos vegetais, os produtos hidratam, refrescam e não irritam a pele ao barbear"
+    }
+  ],
+  "header": {
+    "title": "Linhas Granado",
+    "description": "Confira nossas diversas linhas de produtos para cada necessidade"
+  },
+  "layout": {
+    "categoryCard": {
+      "textPosition": "top",
+      "textAlignment": "center"
+    },
+    "headerAlignment": "center"
+  },
+  "__resolveType": "site/sections/Category/CategoryList.tsx",
+  "categories": []
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Venda Corporativa",
+  "path": "/granado/venda-corporativa-granado",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "free shipping bar"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/Intro.tsx",
+      "text": "Venda Corporativa",
+      "alignment": "Center"
+    },
+    {
+      "__resolveType": "site/sections/Content/RichText.tsx",
+      "text": "<p>Surpreenda seus clientes e parceiros com uma experiência sensorial Granado|Phebo. Um presente que vai ficar na memória!</p><p>Temos condições e preços especiais para empresas.</p><p><br data-mce-bogus=\"1\"></p><p><strong>Peça seu orçamento pelo email: &nbsp;</strong></p><p><br data-mce-bogus=\"1\"></p><p><span style=\"text-decoration: underline; color: rgb(2, 90, 68);\" data-mce-style=\"text-decoration: underline; color: rgb(2, 90, 68);\"><a href=\"mailto:G_vendasweb@granadophebo.com.br\" data-linkindex=\"0\" data-mce-href=\"mailto:G_vendasweb@granadophebo.com.br\" style=\"color: rgb(2, 90, 68); text-decoration: underline;\" data-mce-style=\"color: rgb(2, 90, 68); text-decoration: underline;\">G_vendasweb@granadophebo.com.br</a></span></p><p><br data-mce-bogus=\"1\"></p><p><br><strong>Informações obrigatórias:&nbsp;</strong></p><p><strong><br data-mce-bogus=\"1\"></strong></p><p>- Nome de Contato:&nbsp;<br>- Nome da Empresa:&nbsp;<br>- Telefone para contato:&nbsp;<br>- Tipo de produto desejado: &nbsp;<br>- Quantidade de brindes: &nbsp;<br>- Verba por brinde:&nbsp;<br>- Local de recebimento:&nbsp;<br>- Prazo para receber:</p><p><br data-mce-bogus=\"1\"></p><p>Atenciosamente, </p><p>Equipe Granado|Phebo.</p>"
+    },
+    {
+      "__resolveType": "Footer - 04"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Header Global"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "title": "Granado | Granado Pharmácias",
+    "description": "Encontre promoções exclusivas nas linhas Granado e Phebo. Tradição e Qualidade. Sabonetes, Talco, Esmalte, Perfumes, Cremes e mais.",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/b90680ce-6fe6-49cb-9d0f-0f75c5b558aa",
+    "canonical": "https://www.granado.com.br/granado/venda-corporativa-granado"
+  }
+}

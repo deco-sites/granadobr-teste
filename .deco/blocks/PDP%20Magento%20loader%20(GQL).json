@@ -1,0 +1,12 @@
+{
+  "customFields": {
+    "active": true,
+    "overrideList": []
+  },
+  "__resolveType": "magento/loaders/product/detailsPageGQL.ts",
+  "isBreadcrumbProductName": true,
+  "slug": {
+    "__resolveType": "website/functions/requestToPathname.ts",
+    "pathname": "/granado/"
+  }
+}

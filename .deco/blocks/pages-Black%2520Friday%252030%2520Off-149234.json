@@ -1,0 +1,235 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "sections": [
+    {
+      "type": "website",
+      "jsonLD": {
+        "__resolveType": "Black Friday 30"
+      },
+      "__resolveType": "commerce/sections/Seo/SeoPLP.tsx",
+      "titleTemplate": "%s | Granado Pharmácias",
+      "descriptionTemplate": "%s | Granado Pharmácias",
+      "canonical": "https://www.granado.com.br/black-friday/30-off"
+    },
+    {
+      "__resolveType": "site/sections/Header/Header.tsx",
+      "logo": {
+        "whiteBackground": {
+          "alt": "Granado",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/bcb6a6ff-5281-4266-860e-fe85c84cd933",
+          "width": 540,
+          "height": 232
+        },
+        "TransparentBackground": {
+          "alt": "Granado",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/c9fde472-e220-401b-b33c-b154e1a430b5"
+        }
+      },
+      "alerts": {
+        "alerts": [],
+        "interval": 7
+      },
+      "account": {
+        "myAccont": "Minha Conta",
+        "myOrders": "Meus Pedidos",
+        "loginItem": "Entrar",
+        "myAccount": "Minha Conta",
+        "isLoggedIn": false,
+        "logoutItem": "Sair",
+        "createAccont": "Criar Conta",
+        "createAccount": "Criar Conta"
+      },
+      "alerts2": {
+        "items": [
+          {
+            "label": "Frete Grátis em compras a partir de R$200,00!"
+          },
+          {
+            "label": "Parcelamento em até 10 vezes"
+          },
+          {
+            "href": "https://www.granado.com.br/granado/regrasepromocoes",
+            "label": "Retire na Loja: <b>Grátis + 5%OFF</b>",
+            "htmlFormat": true,
+            "openInNewTab": true
+          }
+        ],
+        "interval": 7
+      },
+      "buttons": {
+        "hideCartButton": true,
+        "hideSearchButton": false,
+        "hideAccountButton": true,
+        "hideWishlistButton": true
+      },
+      "queueIt": true,
+      "cartType": "Cart",
+      "navItems": [
+        {
+          "children": [],
+          "image": [],
+          "name": "Ver Tudo",
+          "headerConfig": {
+            "displayInHeader": true,
+            "headerOrder": 1
+          },
+          "url": "/black-friday"
+        },
+        {
+          "children": [],
+          "image": [],
+          "name": "70% Off",
+          "headerConfig": {
+            "displayInHeader": true,
+            "headerOrder": 2
+          },
+          "url": "/black-friday?discount=70"
+        },
+        {
+          "children": [],
+          "image": [],
+          "name": "50% Off",
+          "headerConfig": {
+            "displayInHeader": true,
+            "headerOrder": 3
+          },
+          "url": "/black-friday?discount=50"
+        },
+        {
+          "children": [],
+          "image": [],
+          "url": "/black-friday?discount=30",
+          "name": "30% Off",
+          "headerConfig": {
+            "displayInHeader": true,
+            "headerOrder": 4
+          }
+        }
+      ],
+      "searchbar": {
+        "logo": {
+          "alt": "granado logo",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5274/bcb6a6ff-5281-4266-860e-fe85c84cd933"
+        },
+        "name": "q",
+        "action": "/black-friday",
+        "loader": {
+          "data": {
+            "products": [],
+            "searches": [],
+            "__resolveType": "site/loaders/suggetionsFromRecords.ts",
+            "count": 8,
+            "unavailableThreshold": 10
+          },
+          "__resolveType": "resolved"
+        },
+        "cardLayout": {
+          "hide": {
+            "cta": true,
+            "discount": false,
+            "allPrices": true,
+            "productLink": false,
+            "skuSelector": true,
+            "installments": true,
+            "productDescription": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Center"
+          },
+          "outOfStock": "Indisponível",
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image"
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          }
+        },
+        "placeholder": "O que você está procurando?",
+        "dontUpdateCartAfter": {
+          "addItem": false
+        }
+      },
+      "logoPosition": "left",
+      "freeShippingTarget": 100,
+      "hideSwitcher": true,
+      "headerBackground": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/grananadobr/a497a0bd-557c-44c5-b37c-b3a0745c3b70/granado-BF-header.png"
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "images": [
+        {
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/grananadobr/e7164b20-6db6-405c-97c1-35cc5b435822/granado-BF.jpg",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/granadobr/784139c7-c1b6-4dd0-abd4-237369086606/Tabpanel--Link.png"
+        }
+      ],
+      "preload": true,
+      "arrows": true,
+      "dots": true
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "Black Friday 30"
+      },
+      "layout": {
+        "format": "Pagination",
+        "columns": {
+          "mobile": 2,
+          "desktop": 4
+        },
+        "variant": "aside"
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "cta": true,
+            "discount": false,
+            "allPrices": false,
+            "skuSelector": true,
+            "favoriteIcon": true,
+            "installments": true,
+            "productDescription": true,
+            "productLink": false
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Center"
+          },
+          "outOfStock": "Indisponível",
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image"
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      },
+      "startingPage": 0,
+      "showcaseBanner": {
+        "positionMobile": 8,
+        "positionDesktop": 16,
+        "banner": {
+          "description": "A Granado tem um jeito único de criar os seus perfumes. Com mais de 150 anos de história, prezamos pela qualidade e pela tradição na criação de todos os nossos produtos. Não à toa, oferecemos opções com cheiros atemporais, que ressaltam os ingredientes nacionais.\n",
+          "title": "Perfumes granado",
+          "image": {
+            "alt": "Banner vitrine black friday",
+            "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/granadobr/d7e378da-fba4-4519-9399-8ec7c32c15c9/image.png",
+            "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/granadobr/7284a68f-ca86-44a7-8c9c-9e4fb2d1fdeb/imagemobile.png"
+          }
+        }
+      },
+      "pageDescription": "<p>Após o banho, todo mundo merece se refrescar com um perfume eau de toilette leve, agradável e suave — concorda? Pensando nisso, a Granado montou esta seção de perfumaria com fragrâncias EDT que levam a essência da nossa marca. São perfumes nacionais, fabricados, majoritariamente, por ingredientes naturais e com formulações veganas. Continue navegando e mergulhe em uma seleção construída com mais de 150 anos de história!</p>"
+    },
+    {
+      "__resolveType": "Footer - 01"
+    }
+  ],
+  "name": "Black Friday 30 Off",
+  "path": "/black-friday/30-off"
+}

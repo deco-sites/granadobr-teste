@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/granado/condicionador-granado-castanha-do-brasil-50ml",
+    "to": "https://www.granado.com.br/granado/corpo-e-banho/cabelos",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

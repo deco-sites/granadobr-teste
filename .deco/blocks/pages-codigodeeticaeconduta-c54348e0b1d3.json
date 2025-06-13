@@ -1,0 +1,39 @@
+{
+  "name": "Codigo de etica e conduta",
+  "path": "/granado/codigodeeticaeconduta",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "free shipping bar"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Institucional/CodeOfEthicsAndConduct.tsx",
+      "home": "Início",
+      "pageTitle": "Código de Ética e Conduta",
+      "pageSubtitle": "<div class=\"\"><p class=\"mb-4\">O Código de Ética e Conduta do Grupo Granado|Phebo reúne diretrizes que norteiam as relações com os diferentes públicos, fundamentadas em princípios, normas e valores presentes desde 1870 em nossa organização.</p><p class=\"mb-4\">Recomendamos a leitura a todos que tenham uma relação com a empresa para que possamos criar uma sinergia de boas práticas, essencial ao convívio corporativo e em sociedade.</p><p class=\"\"><a class=\"text-green-800 underline\" href=\"https://www.granado.com.br/media/customer_address/C/o/Codigo-de-etica-e-Conduta-2022-Granado_compressed_1.pdf\" data-mce-href=\"https://www.granado.com.br/media/customer_address/C/o/Codigo-de-etica-e-Conduta-2022-Granado_compressed_1.pdf\">Clique aqui para fazer download</a> do Código de Ética e Conduta da Granado|Phebo.</p></div>"
+    },
+    {
+      "__resolveType": "Footer - 04"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Header Global"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "canonical": "https://www.granado.com.br/granado/codigodeeticaeconduta"
+  }
+}

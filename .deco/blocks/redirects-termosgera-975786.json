@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/termosgerais",
+    "to": "/granado/termosgerais",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/campanhas/produtos",
+    "to": "/granado/campanhas/produtos",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/perfumaria/perfumes-granado",
+    "to": "/granado/perfumaria/todos-perfumes",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

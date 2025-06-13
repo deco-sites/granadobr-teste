@@ -1,0 +1,23 @@
+{
+  "__resolveType": "commerce/loaders/product/extensions/list.ts",
+  "data": {
+    "__resolveType": "magento/loaders/product/list.ts",
+    "props": {
+      "pageSize": 16,
+      "currentPage": 1,
+      "customFields": {
+        "active": true,
+        "overrideList": []
+      },
+      "sort": {
+        "sortBy": {
+          "value": "name"
+        },
+        "order": "ASC"
+      },
+      "filter": [],
+      "search": "sabonete"
+    }
+  },
+  "extensions": []
+}

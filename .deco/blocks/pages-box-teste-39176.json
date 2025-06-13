@@ -1,0 +1,155 @@
+{
+  "name": "box-teste",
+  "path": "/box-teste",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header Global"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/Carousel.tsx",
+        "images": [
+          {
+            "action": null,
+            "desktop": "https://data.decoassets.com/granadobr/13e5a294-f89b-4684-9674-8ddd0dc16f05/Desktop_97_.gif",
+            "mobile": "https://assets.decocache.com/granadobr/e44c6b2f-b323-441f-adb3-827ff28246b7/Banner-Mobile_24_.gif",
+            "promotionId": "box"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductCardUnique.tsx",
+        "title": "Conheça seu box",
+        "products": {
+          "__resolveType": "magento/loaders/product/list.ts",
+          "props": {
+            "pageSize": 1,
+            "currentPage": 1,
+            "customFields": {
+              "active": true
+            },
+            "sort": {
+              "sortBy": {
+                "value": "name"
+              },
+              "order": "ASC"
+            },
+            "filter": [],
+            "search": "21483"
+          }
+        },
+        "gtmListId": "box"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/Benefits.tsx",
+        "title": "Confira os benefícios exclusivos",
+        "benefits": [
+          {
+            "icon": "DiscountTag",
+            "description": "Para usar no site e lojas Granado *Desconto não cumulativo",
+            "label": "20% OFF"
+          },
+          {
+            "icon": "Truck",
+            "description": "Frete Grátis para compras acima de R$100",
+            "label": "Frete grátis"
+          },
+          {
+            "icon": "Store",
+            "label": "Clube de Benefícios",
+            "description": "Tenha acesso antecipado as nossas principais ofertas"
+          },
+          {
+            "label": "Flexibilidade",
+            "description": "Assine e ganhe + R$250 em produtos",
+            "icon": "ShoppingCart"
+          }
+        ],
+        "description": " ",
+        "layout": {
+          "variation": "Card style",
+          "headerAlignment": "center"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/Faq.tsx",
+        "title": "Perguntas frequentes",
+        "questions": [
+          {
+            "question": "1- O que é o Box Granado?",
+            "answer": "A botica mais tradicional do país agora tem um clube de assinatura! Pensado para levar as melhores fragrâncias, enviamos até a sua casa, a cada 2 meses, de 5 a 6 produtos exclusivos entre miniaturas e full size da linha Vintage. Além da diversidade de produtos de alta qualidade, você também terá a chance de experimentar e se apaixonar por itens que ainda não conhece."
+          },
+          {
+            "question": "2 – Como assinar e quanto custa?",
+            "answer": "Sua assinatura começa assim que o pagamento inicial é processado! Bimestralmente, será cobrado o valor de R$150 à vista no cartão de crédito. Lembrando que a assinatura será renovada automaticamente a cada 2 meses até o cancelamento."
+          },
+          {
+            "question": "3 - Quais os diferenciais e benefícios?",
+            "answer": "Todos os produtos que você receber são cuidadosamente selecionados por uma curadoria da equipe Granado. Além disso, você terá acesso antecipado às principais ofertas, desfrutará de 20% de desconto em todas as compras realizadas no site e nas lojas físicas, e ainda receberá o equivalente a R$250 em produtos Granado. *O desconto será aplicado dentro de 24 horas em dias úteis."
+          },
+          {
+            "question": "4 – Vou receber produtos repetidos?",
+            "answer": "Não! A cada dois meses, garantimos que você receberá produtos variados e únicos."
+          },
+          {
+            "question": "5 – Quais são as formas de pagamento?",
+            "answer": "Aceitamos apenas cartão de crédito."
+          },
+          {
+            "question": "6 – Qual o valor do frete?",
+            "answer": "O frete fica por nossa conta!"
+          },
+          {
+            "question": "7 – Como faço para assinar?",
+            "answer": "1) Acesse https://www.granado.com.br/granado/box_granado;<br> 2) Clique em assinar;<br> 3) Concorde com o regulamento;<br> 4) Informe o método de pagamento."
+          },
+          {
+            "question": "8 – Posso acompanhar o envio do meu kit?",
+            "answer": "Sim! Basta seguir o passo a passo abaixo:<br> 1) Acesse o site granado.com.br;<br> 2) Clique em \"Login/Inscreva-se\";<br> 3) Acesse \"Meus Pedidos\"."
+          },
+          {
+            "question": "9 – Tenho outras dúvidas relacionadas ao meu Box Granado. Quem pode me ajudar?",
+            "answer": "A nossa Central de Relacionamento estará disponível para te ajudar pelo e-mail: <b>sac@granadophebo.com.br</b>"
+          },
+          {
+            "question": "10 – Posso cancelar minha assinatura a qualquer momento?",
+            "answer": "Sim! Você continuará recebendo os produtos até o final do período de faturamento, conforme a data da solicitação. Para cancelar, acesse \"Conta\", vá para \"Meus Pedidos\" e \"Minhas Assinaturas\", e siga as instruções de cancelamento."
+          },
+          {
+            "question": "11 – Quando receberei meu box?",
+            "answer": "Seu Box será preparado e enviado assim que o pagamento for confirmado. Os próximos envios serão feitos após 60 dias do último Box."
+          },
+          {
+            "question": "12 – Como faço para adquirir o desconto de 20% nas compras?",
+            "answer": "<p>No site o desconto é aplicado automaticamente no carrinho e nas lojas físicas basta informar o CPF, o benefício é pessoal e intransferível e só será concedido mediante a apresentação da documentação.</p>"
+          }
+        ],
+        "contact": {}
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer - 01"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "canonical": "https://www.granado.com.br/box-teste"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

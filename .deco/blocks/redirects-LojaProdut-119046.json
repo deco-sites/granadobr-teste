@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/Loja/Produto/1462",
+    "to": "https://www.granado.com.br/",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

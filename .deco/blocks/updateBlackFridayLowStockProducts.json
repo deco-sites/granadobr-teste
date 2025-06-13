@@ -1,0 +1,8 @@
+{
+  "__resolveType": "site/actions/updateLowStockProducts.ts",
+  "skus": {
+    "__resolveType": "Black Friday Sku List"
+  },
+  "stockThreshold": 30,
+  "updateInterval": 5
+}

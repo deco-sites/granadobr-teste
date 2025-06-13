@@ -1,0 +1,11 @@
+{
+  "data": {
+    "__resolveType": "PDP Magento loader (GQL)"
+  },
+  "extensions": [
+    {
+      "__resolveType": "PDP Amasty Reviews Extension"
+    }
+  ],
+  "__resolveType": "commerce/loaders/product/extensions/detailsPage.ts"
+}
